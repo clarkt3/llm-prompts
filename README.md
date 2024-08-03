@@ -1,5 +1,7 @@
 # Working with LLMs
 
+## Day 1 of 25
+
 ### Introduction
 
 #### course introduction
