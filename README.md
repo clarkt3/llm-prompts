@@ -32,6 +32,15 @@
     # applying the knowledge of LLMs to real world
     # learn the skill and it will help you in all areads of your life
 #### Applied Prompt Engineering with NASA
+    # BIDARA: ChatGPT-based chatbot that was instructed to help scientists, engineers
+        # understand, learn from, and emulate the strategies used by living things
+        # to create sustainable design and tech
+    # Prompt does all of these  things
+        # 1. Tells ChatGPT it is an expert in biomimetic design and other fields
+        # 2. Creates a workflow for the next four steps
+        # 3. Creates a step-by-step process for ChatGPT - process to be followed
+        # 4. Requires the model to provide evidence in the form of peer-reviewed sources
+        # 5. Makes the odel respond with expert-level responses (hints are provided too)
 #### Why is Prompt Engineering Important to You?
 #### The Latest: Am I Wrong?
 #### Homework: AlphaGo
