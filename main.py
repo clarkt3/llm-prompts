@@ -1,4 +1,6 @@
 # snake game built with ChatGPT
+# first attempt
+
 
 import pygame
 import time
