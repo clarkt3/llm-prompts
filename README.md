@@ -53,3 +53,15 @@
 #### Homework: AlphaGo
 #### < > Let's Have Some Fun (+ More Resources)
 
+
+## Day 3 of 25 | 2024-08-05
+
+### Section 2: Choose Your LLM
+
+#### What I'm Using - Part 1
+
+#### Optional Setting Up Your Playground
+
+#### Multi-Modality and Tools in LLMS
+
+#### Choose You LLM!
