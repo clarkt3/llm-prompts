@@ -107,6 +107,13 @@
 
     # previous messages in a chat infulence all other messages within that same chat
     # feed instructions to GPT before prompting for code generation
+    # the key here being you need to "warm" GPT up before prompting by asking for steps (in some cases)
+    # you provide it context and it helps make responsed more accurate
+
+#### Building Our Snake Game - Part 2
+
+    # manipulating code to change background color
+        # simply ask chat gpt where to update the color within the code base it provided
 
 
 
