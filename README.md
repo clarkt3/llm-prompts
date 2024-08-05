@@ -69,5 +69,18 @@
 #### Multi-Modality and Tools in LLMS
 
     # testing auto-save
+    # auto-save setup complete
+    # what's multi-modailty?
+        # understands text; generates text back
+        # it understand images, too; pass it images
+    # watch HAL 9000 tonight
+    # keypoint: GPT can accept text, images and gen text, images
+    # be careful of hallucinations - where things are just made up
+    # third model: python execution
+        # chatGPT can execute python code
+
+    # Test: Calculate the Fibonacci sequence up to the 10th number
+
+    # summary:
 
 #### Choose You LLM!
