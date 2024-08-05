@@ -81,6 +81,10 @@
 
     # Test: Calculate the Fibonacci sequence up to the 10th number
 
-    # summary:
+    # Summary
+        1. Accept and generate text
+        2. Accept and generate images
+        3. Browse the internet
+        4. Execute Python code
 
 #### Choose You LLM!
