@@ -42,7 +42,11 @@
         # 4. Requires the model to provide evidence in the form of peer-reviewed sources
         # 5. Makes the odel respond with expert-level responses (hints are provided too)
 #### Why is Prompt Engineering Important to You?
+    # The hottest new programming language is English
+    # You need to get good at prompt engineering; don't be bad
+    # AI won't take your job but a person using AI will take your job
 #### The Latest: Am I Wrong?
+    # 
 #### Homework: AlphaGo
 #### < > Let's Have Some Fun (+ More Resources)
 
