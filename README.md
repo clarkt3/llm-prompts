@@ -28,6 +28,9 @@
     # using ChatGPT play ground -- you'll learn how to set this up later in the course
     # the only time the LLMs "Think" is when they're typing...
     # if you don't understand how these models work, you'll be at a disadvantage 
+
+## Day 2
+
 #### Applied Prompt Engineering
     # applying the knowledge of LLMs to real world
     # learn the skill and it will help you in all areads of your life
