@@ -89,4 +89,47 @@
 
 #### Choose You LLM!
 
-    # choose GPT (obviously)
+    # choose GPT (obviously
+
+### Section 3: Guided Proejct - Build Your First Game (Snake Game)
+
+#### Project Introduction
+    
+    # creating a snake game using an LLM
+    # create new repo for game?
+    # add code right here and run it in replit
+
+    ```Python
+
+    
+
+    ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
