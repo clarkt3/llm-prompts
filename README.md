@@ -99,11 +99,14 @@
     # create new repo for game?
     # add code right here and run it in replit
 
-    ```Python
-
-    
+    ```Python  
 
     ```
+
+#### Building Our Snake Game - Part 1
+
+    # previous messages in a chat infulence all other messages within that same chat
+    # feed instructions to GPT before prompting for code generation
 
 
 
