@@ -62,6 +62,10 @@
 
 #### Optional Setting Up Your Playground
 
+    # playground setup complete
+    # MFA setup complete
+    # monethly budget setup complete
+
 #### Multi-Modality and Tools in LLMS
 
 #### Choose You LLM!
