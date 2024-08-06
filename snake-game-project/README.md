@@ -1104,4 +1104,9 @@ Changing the `snake_speed` value alters the game's difficulty, as a faster snake
 
     ```
 
-# Project 1 Complete
+#### Project 1 Complete - https://github.com/clarkt3/llm-prompts/tree/main/snake-game-project
+
+
+### 
+
+
