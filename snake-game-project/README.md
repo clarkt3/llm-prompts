@@ -370,7 +370,8 @@ You can run this code in your Python environment to see the Snake Game in action
 
 #### The Above code didn't work in my browser so I regenerated and received this code:
 
-    import pygame
+```Python
+import pygame
 import time
 import random
 
@@ -402,8 +403,8 @@ snake_block = 10
 snake_speed = 20  # Adjust this value to change the speed
 
 # Set up fonts for displaying text
-font_style = pygame.font.SysFont(None, 50)
-score_font = pygame.font.SysFont(None, 35)
+    font_style = pygame.font.SysFont(None, 50)
+    score_font = pygame.font.SysFont(None, 35)
 
 def score_display(score):
     """Display the current score on the screen."""
@@ -513,6 +514,6 @@ def gameLoop():
     pygame.quit()
     quit()
 
-gameLoop()
-
+    gameLoop()
+```
 ## Prompt 3: 
