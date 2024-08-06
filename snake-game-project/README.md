@@ -366,3 +366,5 @@ gameLoop()
 - **Display**: The score is displayed on the screen, and the game over screen is shown when the snake collides with the walls or itself.
 
 You can run this code in your Python environment to see the Snake Game in action. Feel free to modify the game, add features, or customize it further!
+
+## Prompt 3: 
