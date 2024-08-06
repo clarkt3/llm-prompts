@@ -1,6 +1,6 @@
 # Using an LLM (GPT4) to generate and modify  a Snake Game 
 
-#### Prompt 1 - Priming the LLM
+## Prompt 1 - Priming the LLM
 
     # fed the following prompt to GPT4o in a new chat window to get it 'warmed up'
     # changing to new chat ensure that previous information doesn't influence new prompt output
@@ -202,3 +202,167 @@
 
 This is a basic structure to get you started. You can expand upon this by adding more features like levels, sound effects, and different difficulty settings.
 
+## Input - Prompt 2: Provide the code for a Snake Game in Python. The code should include all the details and feature described above.
+
+## GPT4o Output:
+
+Below is the complete code for a simple Snake Game in Python using the Pygame library. It includes all the basic features described earlier, such as controlling the snake, growing the snake when it eats food, collision detection, and displaying the score.
+
+```python
+import pygame
+import time
+import random
+
+# Initialize Pygame
+pygame.init()
+
+# Set the dimensions of the window
+window_width = 800
+window_height = 600
+
+# Create the game window
+window = pygame.display.set_mode((window_width, window_height))
+pygame.display.set_caption('Snake Game')
+
+# Colors
+black = pygame.Color(0, 0, 0)
+white = pygame.Color(255, 255, 255)
+red = pygame.Color(255, 0, 0)
+green = pygame.Color(0, 255, 0)
+
+# Snake settings
+snake_pos = [100, 50]
+snake_body = [[100, 50], [90, 50], [80, 50]]
+snake_direction = 'RIGHT'
+change_to = snake_direction
+speed = 15
+
+# Food settings
+food_pos = [random.randrange(1, (window_width // 10)) * 10,
+            random.randrange(1, (window_height // 10)) * 10]
+food_spawn = True
+
+# Game variables
+score = 0
+clock = pygame.time.Clock()
+
+# Font
+font_style = pygame.font.SysFont('times new roman', 50)
+score_font = pygame.font.SysFont('times new roman', 35)
+
+# Function to display score
+def show_score():
+    score_surface = score_font.render('Score: ' + str(score), True, white)
+    score_rect = score_surface.get_rect()
+    score_rect.midtop = (window_width / 10, 15)
+    window.blit(score_surface, score_rect)
+
+# Function to display game over
+def game_over():
+    game_over_surface = font_style.render('Your Score is: ' + str(score), True, red)
+    game_over_rect = game_over_surface.get_rect()
+    game_over_rect.midtop = (window_width / 2, window_height / 4)
+    window.fill(black)
+    window.blit(game_over_surface, game_over_rect)
+    pygame.display.flip()
+    time.sleep(3)
+    pygame.quit()
+    quit()
+
+# Main function
+def gameLoop():
+    global change_to, snake_direction, snake_pos, snake_body, food_pos, food_spawn, score
+
+    running = True
+    while running:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                running = False
+            elif event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_UP:
+                    change_to = 'UP'
+                elif event.key == pygame.K_DOWN:
+                    change_to = 'DOWN'
+                elif event.key == pygame.K_LEFT:
+                    change_to = 'LEFT'
+                elif event.key == pygame.K_RIGHT:
+                    change_to = 'RIGHT'
+
+        # Validate direction change
+        if change_to == 'UP' and not snake_direction == 'DOWN':
+            snake_direction = 'UP'
+        if change_to == 'DOWN' and not snake_direction == 'UP':
+            snake_direction = 'DOWN'
+        if change_to == 'LEFT' and not snake_direction == 'RIGHT':
+            snake_direction = 'LEFT'
+        if change_to == 'RIGHT' and not snake_direction == 'LEFT':
+            snake_direction = 'RIGHT'
+
+        # Move the snake
+        if snake_direction == 'UP':
+            snake_pos[1] -= 10
+        if snake_direction == 'DOWN':
+            snake_pos[1] += 10
+        if snake_direction == 'LEFT':
+            snake_pos[0] -= 10
+        if snake_direction == 'RIGHT':
+            snake_pos[0] += 10
+
+        # Snake body growing mechanism
+        snake_body.insert(0, list(snake_pos))
+        if snake_pos == food_pos:
+            score += 10
+            food_spawn = False
+        else:
+            snake_body.pop()
+
+        if not food_spawn:
+            food_pos = [random.randrange(1, (window_width // 10)) * 10,
+                        random.randrange(1, (window_height // 10)) * 10]
+
+        food_spawn = True
+        window.fill(black)
+
+        # Draw snake
+        for pos in snake_body:
+            pygame.draw.rect(window, green, pygame.Rect(pos[0], pos[1], 10, 10))
+
+        # Draw food
+        pygame.draw.rect(window, red, pygame.Rect(food_pos[0], food_pos[1], 10, 10))
+
+        # Check for collisions
+        if snake_pos[0] < 0 or snake_pos[0] > window_width - 10:
+            game_over()
+        if snake_pos[1] < 0 or snake_pos[1] > window_height - 10:
+            game_over()
+
+        # Check if the snake hits itself
+        for block in snake_body[1:]:
+            if snake_pos == block:
+                game_over()
+
+        show_score()
+        pygame.display.update()
+
+        # Control the game speed
+        clock.tick(speed)
+
+# Run the game
+gameLoop()
+```
+
+### How the Code Works
+
+- **Initialization**: Pygame is initialized, and a game window is created with specific dimensions.
+
+- **Game Loop**: The main game loop listens for keyboard events to change the direction of the snake. It updates the snake's position, checks for collisions, and refreshes the screen.
+
+- **Snake Movement**: The snake moves in the direction set by the arrow keys. The position of the snake is updated based on its direction.
+
+- **Food Consumption**: When the snake's head collides with the food, the snake grows, and a new food item is spawned randomly.
+
+- **Collision Detection**: The game checks for collisions with the walls and with the snake's own body to determine when the game is over.
+
+- **Display**: The score is displayed on the screen, and the game over screen is shown when the snake collides with the walls or itself.
+
+You can run this code in your Python environment to see the Snake Game in action. Feel free to modify the game, add features, or customize it further!
