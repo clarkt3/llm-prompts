@@ -238,9 +238,95 @@
     # new modles are released all the time and you'll be able to understand
 
     # Llama 2: 7 billion parameters spread across 32 layers, trained on 2 trillion tokens
+        # the more tokens and parameters you have the smarter the model gets
+        # it's a strong correlation
     
     # GPT 4 is significantly higher in all areas
 
+
+
+```
+
+#### The Transformer Model
+
+```Python
+    # predictive text tool on your phone
+        # returns the 1st 2nd 3rd most popular responses
+    # predictive but not a GPT
+
+    # Understand the Google Whitepaper "Attention Is All You Need"
+        # this paper introcuces the transformer model
+    
+    # used GPT4o to help break down the "Attention Is All You Need"
+
+        # input: Using the Feynman technique, explain the attached document about Transformers.
+
+        # output: 
+
+"Let’s break down the document on Transformers using the Feynman technique, which involves explaining the concept in simple terms as if teaching it to someone else:
+
+Introduction to Transformers
+
+The Transformer model is a type of neural network designed for tasks that involve processing sequences, such as language translation. Unlike previous models that relied on complex structures like Recurrent Neural Networks (RNNs) or Convolutional Neural Networks (CNNs), Transformers use a simpler approach based entirely on attention mechanisms. This makes them more efficient and faster to train because they can process all parts of a sequence simultaneously, rather than one step at a time ￼ ￼.
+
+How Transformers Work
+
+	1.	Model Architecture: Transformers consist of an encoder and a decoder. The encoder processes the input sequence and converts it into a set of continuous representations. The decoder then takes these representations to generate the output sequence, one element at a time. The encoder and decoder are composed of several layers that mainly use attention mechanisms and feed-forward networks ￼ ￼.
+	2.	Attention Mechanism: Attention allows the model to focus on different parts of the input sequence when producing each part of the output sequence. This is similar to how humans pay attention to specific words when understanding a sentence. The Transformer uses a specific type of attention called “self-attention,” which helps relate different positions of a single sequence to compute its representation ￼ ￼.
+	3.	Multi-Head Attention: This involves using multiple attention mechanisms in parallel, allowing the model to focus on different parts of the sequence simultaneously. This helps the model understand complex relationships within the data ￼.
+	4.	Position-wise Feed-Forward Networks: After attention, the data passes through a simple neural network that processes each position independently, adding a layer of complexity and representation power to the model ￼.
+	5.	Positional Encoding: Since Transformers do not process sequences in order, they need a way to understand the position of each element in the sequence. Positional encodings are added to the input embeddings to give the model information about the position of each word ￼.
+
+Results and Applications
+
+Transformers have shown impressive results in tasks like language translation, significantly outperforming previous models in both speed and accuracy. For example, in English-to-German translation tasks, Transformers have set new records for translation quality ￼.
+
+Conclusion
+
+Transformers represent a shift in how sequence processing tasks are approached, moving away from the sequential processing of RNNs to a more parallel and efficient method based solely on attention. This makes them powerful tools for a variety of applications beyond just text, potentially including areas like image and audio processing ￼ ￼.
+
+In summary, Transformers have revolutionized the way we handle sequence data, making it faster and more efficient to train models for complex tasks like language translation. The key innovation is the use of attention mechanisms, which allow the model to focus on different parts of the input simultaneously."
+
+
+
+    # Refining the Output:
+
+    # input: 
+
+"I still can't understand what is being mentioned. Refine and simplify the explaination so someone who has no tech experience and no knowledge about neural netowkrs can understand this explaination."
+
+
+    # output: 
+
+    "Certainly! Let's simplify the explanation of Transformers by using an everyday analogy:
+
+### Imagine a Transformer as a Language Expert
+
+Think of a Transformer model as a language expert trying to translate a sentence from English to French. This expert doesn't just translate word by word. Instead, they look at the entire sentence to understand the meaning and context before translating it.
+
+#### Key Ideas Behind Transformers
+
+1. **Seeing the Big Picture**: 
+   - Imagine if you were translating a sentence and could look at all the words at once to get the full meaning. Transformers work like this. They can look at the entire sentence in one go, rather than processing one word at a time.
+
+2. **Paying Attention**: 
+   - When the expert is translating, they might focus more on certain words depending on their importance. For example, in the sentence "The cat sat on the mat," they might pay more attention to "cat" and "mat" to understand what's happening. This is called "attention" in Transformers, allowing them to concentrate on different words depending on their importance.
+
+3. **Multiple Perspectives**: 
+   - The expert doesn't just look at the sentence in one way. They consider different perspectives to understand subtle meanings and nuances. Transformers use something called "multi-head attention" to look at the sentence from different angles simultaneously.
+
+4. **Understanding Word Order**: 
+   - Even though the expert looks at the whole sentence at once, they still need to know the order of the words. Transformers use a special technique to keep track of word positions so they understand the sequence properly.
+
+#### Why Are Transformers Powerful?
+
+- **Efficiency**: Because they look at the whole sentence at once, Transformers can translate much faster than older methods that process word by word.
+- **Accuracy**: By paying attention to important words and understanding context, Transformers make more accurate translations.
+- **Flexibility**: This approach isn't just for languages; it can be used in many fields where understanding sequences is important, like summarizing articles or analyzing music.
+
+### In Summary
+
+Think of Transformers as super-smart translators who can see the big picture of a sentence, focus on important parts, and consider multiple meanings all at once. This makes them very efficient and accurate at translating and understanding languages, making them useful in various tasks beyond just translation."
 
 
 ```
@@ -256,3 +342,8 @@
     #
 
 ```
+
+
+
+
+
