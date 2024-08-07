@@ -52,6 +52,7 @@
         # 3. Creates a step-by-step process for ChatGPT - process to be followed
         # 4. Requires the model to provide evidence in the form of peer-reviewed sources
         # 5. Makes the odel respond with expert-level responses (hints are provided too)
+
 #### Why is Prompt Engineering Important to You?
 
     # The hottest new programming language is English
@@ -59,14 +60,22 @@
     # AI won't take your job but a person using AI will take your job
  
 #### Homework: AlphaGo
+    
+    # watched AlphaGo
+
 #### < > Let's Have Some Fun (+ More Resources)
 
+    # signed up for GPT API and added $20 worth of API calls
 
 ## Day 3 of 25 | 2024-08-05
 
 ### Section 2: Choose Your LLM
+    
+    # choose GPT4 
 
 #### What I'm Using - Part 1
+
+    # followed setup guidance
 
 #### Optional Setting Up Your Playground
 
@@ -107,10 +116,6 @@
     # create new repo for game?
     # add code right here and run it in replit
 
-    ```Python  
-
-    ```
-
 #### Building Our Snake Game - Part 1
 
     # previous messages in a chat infulence all other messages within that same chat
@@ -123,7 +128,7 @@
     # manipulating code to change background color
         # simply ask chat gpt where to update the color within the code base it provided
 
- Introduction to LLMs - Part 1
+#### Introduction to LLMs - Part 1
 
 ### Section 4: How LLMs Work
 
@@ -142,7 +147,8 @@
     # coding AI: GitHub CoPilot, Amazon Codewhisperer
     # writing AI: Jasper AI, Copy AI
 
-## Day 
+## Day 5 of 25 | 2024-08-07
+
 #### Tokens
 
     # tokens are the way an LLM understands (words but smaller words)
