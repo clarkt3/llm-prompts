@@ -338,6 +338,21 @@ Think of Transformers as super-smart translators who can see the big picture of 
         # iMessage can't pay attention to the beginning date mentioned in a text and connect the two
         # LLMs can pay attention for longer and see context from further away
 ```
+
+#### GPT Meaning
+
+
+ ```Python
+
+    # GPT stands for Generative Pre-trained Transformer.
+
+``` 
+
+
+
+
+
+
 ### Section X: Section Title
 
 
