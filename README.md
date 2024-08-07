@@ -180,6 +180,8 @@
 
 ####  Thinking Like LLMs - Role a Dice
 
+```Python
+
     # these sections are about  looking at the edge cases and break things down
     
     # Roll a dice: you get a 4 2x in a row
@@ -191,6 +193,8 @@
     # output: 27 (based on training data)
     # prompt 2: pick a number between 1 and 30
     # output: 24 w/ code:
+
+```
 
 ```Python
     
