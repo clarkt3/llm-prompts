@@ -7,34 +7,42 @@
 #### course introduction
 
 #### course resources + Handbook
-        https://half-money-bd8.notion.site/Course-Handbook-Prompt-Engineering-Bootcamp-Working-With-LLMs-Zero-to-Mastery-6234be19ffcd4e02991fa7c5227d21b3
+    #  https://half-money-bd8.notion.site/Course-Handbook-Prompt-Engineering-Bootcamp-Working-With-LLMs-Zero-to-Mastery-6234be19ffcd4e02991fa7c5227d21b3
+
 #### Exercise: meet classmates and instructor
 #### ZTM Plugin + Understanding your video Player
 #### Set your learning streak goal
+
     # 25 days to complete this course is set
 
 ### Section 1: Introduction to Prompt Engineering
 
 #### What is Prompt Engineering
+    
     # A multidisciplinary branch of engineering focused on interacting with AI through the
     # integration of fields including Software Engineering, ML, Cognative Science, Business
     # Philosophy, Psychiatry, and Computer Science
 #### Why is Prompt Engineering even a thing?
+    
     # when the LLMs get big enough, they become much more useful and develop "intelligence"
     # no one knows exactly how LLMs are able to do what they do
     # Prompt Engineering is part of the quest to figure that out
     # prompt quality exponentially improves output performance
+
 #### Breaking GPT
+    
     # using ChatGPT play ground -- you'll learn how to set this up later in the course
     # the only time the LLMs "Think" is when they're typing...
     # if you don't understand how these models work, you'll be at a disadvantage 
 
-## Day 2
+## Day 2 of 25 | 2024-08-04
 
 #### Applied Prompt Engineering
+
     # applying the knowledge of LLMs to real world
     # learn the skill and it will help you in all areads of your life
 #### Applied Prompt Engineering with NASA
+
     # BIDARA: ChatGPT-based chatbot that was instructed to help scientists, engineers
         # understand, learn from, and emulate the strategies used by living things
         # to create sustainable design and tech
@@ -45,11 +53,11 @@
         # 4. Requires the model to provide evidence in the form of peer-reviewed sources
         # 5. Makes the odel respond with expert-level responses (hints are provided too)
 #### Why is Prompt Engineering Important to You?
+
     # The hottest new programming language is English
     # You need to get good at prompt engineering; don't be bad
     # AI won't take your job but a person using AI will take your job
-#### The Latest: Am I Wrong?
-    # 
+ 
 #### Homework: AlphaGo
 #### < > Let's Have Some Fun (+ More Resources)
 
@@ -134,7 +142,7 @@
     # coding AI: GitHub CoPilot, Amazon Codewhisperer
     # writing AI: Jasper AI, Copy AI
 
-
+## Day 
 #### Tokens
 
     # tokens are the way an LLM understands (words but smaller words)
@@ -150,6 +158,9 @@
         # it then uses a lot of fancy math and CS to determine the sequence of tokens
         # that are most statistically probable to follow your tokens based on what it learned
         # it it's training data (That's when it's called a word guessing machine)
+
+#### Word Guessing Machine
+
 ### Section X: Section Title
 
 
