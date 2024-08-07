@@ -228,6 +228,16 @@
     # as the models get bigger the "guessing" will get better
 
     # Weight: tells the model which signals to enhance and which to negate
+
+    # neural networks are modeled after how your brain works
+        # we dont really understand how the brain works but we do understand how the systme works
+            # we can point to the individual neurons in your brain and say, "if I trigger this neuron, someting happens"
+            # but when you put it together w/ all the other neurons, it becomes too complicated to understand
+        # this is part of the magic that happens behind the a CS version of neural networks
+
+    # new modles are released all the time and you'll be able to understand
+
+    # Llama 2: 7 billion parameters spread across 32 layers, trained on 2 trillion tokens
     
     # GPT 4 is significantly higher in all areas
 
