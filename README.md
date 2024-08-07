@@ -115,31 +115,20 @@
     # manipulating code to change background color
         # simply ask chat gpt where to update the color within the code base it provided
 
+ Introduction to LLMs - Part 1
 
+### Section 4: How LLMs Work
 
+#### Introduction to LLMS - Part 1
 
+    # use the right lingo so you know what you're saying
+    # AI > Machine Learning > Deep Learning > Natural Language Processing (NLP) > 
+    # Large Language Models > Large Language Models (LLM) > Prompt Engineering 
+    # NLP is most important here - understand text and spoke words
+        # that's in contrast to understading code (kind of because every thing must be 0s 1s)
 
+#### Introduction to LLMs - Part 2
 
+### Section X: Section Title
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-)
+#### Subsection Title
