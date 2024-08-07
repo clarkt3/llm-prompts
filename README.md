@@ -172,6 +172,13 @@
     # set temp to 0  (controls randomness)
     # type in "I'm excited to learn" 
         # GPT will show you the probability of the next word as a percentage when you click the word
+    # Temperature increased to 1
+        # I'm excited to learn [guessing starts] all the tings I don't know about web development
+        # green is less random (more statistically probable); red means less random (more inprobable)
+    # more randomness creates issues and less acceptable answers
+    # more randomness = more casual, conversational
+
+####  Thinking Like LLMs - Role a Dice
 
 ### Section X: Section Title
 
