@@ -129,6 +129,11 @@
 
 #### Introduction to LLMs - Part 2
 
+    # popular models: GPT-3(OpenAI), GPT-4(OpenAI), PaLM(Google), Claude(Anthropic), LLaMA(Meto)
+    # popular chatbots: ChatGPT(OpenAI), Bing Chat(Microsoft), Bard(Google), Claude(Anthropic), Open Source
+    # coding AI: GitHub CoPilot, Amazon Codewhisperer
+    # writing AI: Jasper AI, Copy AI
+
 ### Section X: Section Title
 
 #### Subsection Title
