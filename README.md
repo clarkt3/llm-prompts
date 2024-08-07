@@ -180,6 +180,26 @@
 
 ####  Thinking Like LLMs - Role a Dice
 
+    # these sections are about  looking at the edge cases and break things down
+    
+    # Roll a dice: you get a 4 2x in a row
+    # because the probability is 47.42% that the number 4 comes after the words roll a dice is 4
+    # the reason 4 is going to be the first output regardless, is that 4 was the most common roll in training data
+    # GPT 4 writes py code for the second roll and prints 2 on the second turn
+
+    # prompt: pick a number between 1 and 30
+    # output: 27 (based on training data)
+    # prompt 2: pick a number between 1 and 30
+    # output: 24 w/ code:
+
+```Python
+    
+    # Pick a random number between 1 and 30
+    random_number = random.randint(1, 30)
+    random_number
+
+```
+
 ### Section X: Section Title
 
 
