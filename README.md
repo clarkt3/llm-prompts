@@ -328,7 +328,15 @@ Think of a Transformer model as a language expert trying to translate a sentence
 
 Think of Transformers as super-smart translators who can see the big picture of a sentence, focus on important parts, and consider multiple meanings all at once. This makes them very efficient and accurate at translating and understanding languages, making them useful in various tasks beyond just translation."
 
+    # main take away of the google white paper "Attention is All You Need:" Transformers can pay attention to more context
 
+
+    # when talknig about attention and paying attention to more context means more words (hence: large language model)
+
+
+    # long-range attention
+        # iMessage can't pay attention to the beginning date mentioned in a text and connect the two
+        # LLMs can pay attention for longer and see context from further away
 ```
 ### Section X: Section Title
 
