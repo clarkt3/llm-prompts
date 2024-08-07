@@ -165,7 +165,13 @@
         # that are most statistically probable to follow your tokens based on what it learned
         # it it's training data (That's when it's called a word guessing machine)
 
-#### Word Guessing Machine
+#### Word Guessing Machine?
+
+    # change mode to complete (legacy)
+    # show probabilities to full spectrum
+    # set temp to 0  (controls randomness)
+    # type in "I'm excited to learn" 
+        # GPT will show you the probability of the next word as a percentage when you click the word
 
 ### Section X: Section Title
 
