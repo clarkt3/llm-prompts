@@ -204,7 +204,45 @@
 
 ```
 
+#### Inside LLMs
+
+```Python
+
+    # GPT 3 is an LL with 175 billion parameters spread across 96 layers, trained on 300 billion tokens!!!
+        # Tokens = words (kind of)
+    
+    # 300 billion tokens = 45 TB of text data (books, articles, websites)
+        # took all this info and was trained on it
+        # more tokens (mostly) means better model
+
+    # 175 billion parameters 96 Layers
+        # parameters:
+        # layers:
+    
+    # input layer: Mary ha a
+    # output layer: goes through all other layers then reccomends (based on stats) little
+        # little is added to the input layer
+    # output layer (again): sees "mary had a little" and adds lamb to the input layer
+        # this process repeats until all tokens are added 
+
+    # as the models get bigger the "guessing" will get better
+
+    # Weight: tells the model which signals to enhance and which to negate
+    
+    # GPT 4 is significantly higher in all areas
+
+
+
+```
 ### Section X: Section Title
 
 
 #### Subsection Title
+
+```Python
+
+    #
+    #
+    #
+
+```
