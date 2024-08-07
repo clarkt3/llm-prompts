@@ -134,6 +134,23 @@
     # coding AI: GitHub CoPilot, Amazon Codewhisperer
     # writing AI: Jasper AI, Copy AI
 
+
+#### Tokens
+
+    # tokens are the way an LLM understands (words but smaller words)
+    # 1 token = 0.75 words (approx.)
+
+    # how words are borken into tokens?
+
+    # there are different tokens for each word and space in an LLM
+    # there are different toakens for capitalized and lower case words in an LLM
+
+    # what makes an LLM a Large Language Model: 
+        # When you ask GPT a questions, it's breaking down your words into tokens
+        # it then uses a lot of fancy math and CS to determine the sequence of tokens
+        # that are most statistically probable to follow your tokens based on what it learned
+        # it it's training data (That's when it's called a word guessing machine)
 ### Section X: Section Title
+
 
 #### Subsection Title
