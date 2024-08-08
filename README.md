@@ -619,7 +619,39 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 
 ```
+#### The World of LLMs
 
+```Python
+    
+    # what's the difference between Modles, ChatBots, and Task-Specific AI
+        # the modles are what companies built and trained
+        # the chatbots are humanoid robots that act as assistants
+            # this is the skin/wrapper/UI that allows you to interact and get outputs from the model
+            # to get tech off the ground it needs to be intuitive and easy to use for everyone
+                # Meta doesn't have a chatbot, just the model that is open source and can be used by anyone
+        # task-specific AI systems:
+            # help you with code: GitHub Copilot (GPT-4) used the based model and fine tuned it to be good at coding tasks
+            # there is also a wrapper (website) for users to interact with the model
+            # they will modify the system message and system prompt of the model: for now think of it as the model behavior instruction
+
+```
+
+#### Implement a New Life System
+
+```Python
+
+    # Can a course bring you happiness
+
+    # create a system for happiness
+
+    # the way you react to what happens to you in life shapes your life
+
+    # have the right mind-set and systems in place to have resilience and confiednce when appropriate
+
+    # those who can make changes will be happier in life
+
+
+```
 
 ### Section X: Section Title
 
