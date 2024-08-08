@@ -653,13 +653,49 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ### Section 5: Challenge - Build Your Second Game (Tic Tac Toe with AI opponent)
 
-##### Callenge Instructions:
+#### Callenge Instructions:
 
 ```Python
 
     # section moved to another folder w/i this gh repo
 
 ```
+### Section 6: Our Prompting Framework
+
+#### Overview of Our Prompting Framework
+```Python
+
+    #
+    #
+    #
+
+```
+
+#### The standard Prompt
+
+```Python
+
+
+
+```
+
+
+#### Prompt Library
+
+```Python
+
+
+
+```
+
+#### Exervise: Get Hyped to Learn!
+
+```Python
+
+
+
+```
+
 ### Section X: Section Title
 
 
