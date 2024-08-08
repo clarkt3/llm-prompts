@@ -455,10 +455,43 @@ Think of Transformers as super-smart translators who can see the big picture of 
     # Reversal Curse uploaded to ChatGPT for further research and understanding
 
     # Reversal Curse in the Feynman Style
+        # if A = B then B = A
+        # machines can't understand this
+        # LLMs trained on A=B do not learn that B=A
+        # they struggle in this department
+
+    # This issue makes sense because all articles on the internet looks like this
+        # A is B: Mary Lee Pfeifer is Tom Cruise's mom
+    # The don't look like this:
+        # Tom Cruise is Mary Lee Pfeifer's son
+
+    # Understand these difference when prompt engineering
+        # this problem is being worked on but you need to be aware of it
+
+```
+#### Exercise: The Reversal Cruse
+
+```Python
+
+     # GPT4o outputs the correct answer when asked who is Tom Cruise's mom becasue the knowledge cutoff dat is August 2024
+     # Between the time that this question: "Who is Mary Lee Pfeifer?" was posed and the Transformer didn't know, web discussions took place
 
 ```
 
+#### Artificial General Intelligence (AGI)
 
+```Python
+
+    # AGI = Artificial General Intelligence = AI at the human level 
+        # current GPT model is NOT AGI 
+    
+    # White Paper - Sparks of Artificial General Intelligence: Early experiments with GPT-4
+        # link to research paper by MS https://arxiv.org/pdf/2303.12712
+    
+
+    # ASI = Artificial Super Intelligence = AI at the superhuman (better than human) level
+
+```
 ### Section X: Section Title
 
 
