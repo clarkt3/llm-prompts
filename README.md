@@ -555,19 +555,67 @@ The paper "Sparks of Artificial General Intelligence: Early Experiments with GPT
    - The model can provide explanations for how specific code snippets work, making it useful for educational purposes and for developers seeking to understand unfamiliar code.
 
 3. **Performance on Coding Assessments**: 
-   - GPT-4's coding skills are demonstrated through its performance on technical assessments such as LeetCode. The paper notes that GPT-4 could pass mock technical interviews by solving coding problems quickly and accurately, with scores surpassing a significant percentage of human candidates.
-   - The paper highlights that GPT-4's ability to solve these problems efficiently, often using creative approaches, indicates a deep understanding of programming principles.
+   - GPT-4\'s coding skills are demonstrated through its performance on technical assessments such as LeetCode. The paper notes that GPT-4 could pass mock technical interviews by solving coding problems quickly and accurately, with scores surpassing a significant percentage of human candidates.
+   - The paper highlights that GPT-4\'s ability to solve these problems efficiently, often using creative approaches, indicates a deep understanding of programming principles.
 
 4. **Interdisciplinary Code Generation**: 
    - GPT-4 can combine coding with knowledge from other domains, such as art or mathematics, to create interdisciplinary applications. For example, it can generate code for visualizing mathematical concepts or creating artistic designs programmatically.
-   - The model's ability to integrate knowledge from different fields into its code generation process demonstrates its flexible understanding and application of coding skills.
+   - The model\'s ability to integrate knowledge from different fields into its code generation process demonstrates its flexible understanding and application of coding skills.
 
 5. **Limitations and Challenges**: 
    - While GPT-4 shows remarkable coding abilities, the paper acknowledges that it still faces challenges, particularly in tasks that require long-term planning or understanding complex interactions within large codebases.
    - The model can sometimes make mistakes or produce incorrect code, especially when handling highly intricate or novel coding tasks that require deep domain-specific knowledge.
 
 Overall, the paper presents GPT-4 as a highly proficient code generator and interpreter, with capabilities that significantly advance the state of AI in programming tasks, often achieving or surpassing human-level performance.
+    
+    # know what's in this paper allws us now to ask GPT-4 anything we want to know about this paper
 
+    # b/c the paper was uploaded into this GPT-4 instance, it can answer anything you want
+
+    # assigned questions to ask and get answers
+        # What is AGI
+        # What the paper concludes about whether GPT-4 is AGI
+        # What methodology the researches used to test whether GPT-4 is AGI
+
+
+    # assignment input: 
+
+    # Based on this research paper, answer the following questions:
+        # What is AGI
+        # What the paper concludes about whether GPT-4 is AGI
+        #  What methodology the researches used to test whether GPT-4 is AGI
+
+        # Your answer must be succinct, precise, easy to understand"
+
+
+    # GPT-4o output: 
+
+Certainly! Here\'s a succinct overview based on the research paper:
+
+### What is AGI?
+
+Artificial General Intelligence (AGI) refers to an AI system that possesses a broad range of cognitive skills and abilities at or beyond human levels. Unlike narrow AI, which excels in specific tasks, AGI can perform various tasks across different domains, including reasoning, planning, and learning from experience, with general intelligence capabilities similar to those of a human.
+
+### What the Paper Concludes About Whether GPT-4 is AGI
+
+The paper concludes that GPT-4 represents significant progress toward AGI but is not yet a complete AGI. GPT-4 exhibits impressive capabilities across many domains, such as language, mathematics, coding, and understanding human emotions and motives, often approaching or surpassing human-level performance. However, it still lacks certain elements of AGI, such as continuous learning, real-world interaction, and long-term planning. GPT-4 is seen as an early step toward more generally intelligent systems but does not fully meet the criteria for AGI.
+
+### What Methodology the Researchers Used to Test Whether GPT-4 is AGI
+
+The researchers employed a novel approach akin to traditional psychology rather than conventional machine learning benchmarks to assess GPT-4\'s potential as AGI. Their methodology included:
+
+1. **Generating Novel and Difficult Tasks**: They devised complex, interdisciplinary tasks across various domains (e.g., language, coding, mathematics) that required more than mere memorization, aiming to demonstrate GPT-4\'s deep understanding and flexibility.
+
+2. **Probing GPT-4\'s Responses**: The researchers tested GPT-4\'s consistency, coherence, and correctness by analyzing its responses to various prompts and scenarios to uncover limitations and biases.
+
+3. **Interdisciplinary and Multimodal Tasks**: They evaluated GPT-4\'s ability to synthesize knowledge from different fields and generate outputs (e.g., code, art, mathematical reasoning) that require cross-disciplinary skills.
+
+4. **Comparison with Previous Models**: The researchers compared GPT-4\'s performance with earlier models like ChatGPT to highlight its advancements and areas where it still falls short.
+
+This methodology aimed to provide a comprehensive understanding of GPT-4\'s capabilities and limitations, supporting the assessment that GPT-4 signals a paradigm shift in AI development but is not yet a complete AGI.
+
+
+    # Assignment completed in one prompt
 
 
 ```
