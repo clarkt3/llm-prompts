@@ -372,7 +372,40 @@ Think of Transformers as super-smart translators who can see the big picture of 
 
     ```
 
+#### The Training Process
 
+```Python
+
+    # how an LLM goes from a simple (small) computer program to an actual working LLM
+
+    # Llama is only 2 files:
+        1. Parameters (140GB size)
+        2. run.c (~500 lines of C Code)
+
+    # but it requires an extensive, expensive training process
+        # Step 1: pre-trianing:
+            # Text data from the internet, reddit, tons of text data
+            # run this data through GPUs - this costs millions of dollars and lots of energ
+            # tunes the layers to recognize the patterns in the text data
+            # determining if a signal gets amplified or minimized by recognizing patterns
+            # compressing the data - you compress it but don't lose (lossy compressions)
+                # you can't see the data but it's in there for traininig purposes
+            # Lossy - you can't "unzip" and get the original data back
+            # at the end of the pretaining phase you end up with a BASE MODEL
+            # BASE MODEL is not the LLM; base model isn't fine tuned though; not question/answer chat bot responses
+            # this model can't help you with your work
+        # Step 2: Fine-tuning:
+            # Take base Model, you feed it high-quality text data
+                # reddit and others is called low-quality text data
+            # specilized people come along and create questions then write the idea answers for them - more accurate/comprehensive
+            # then you feed this new high-quality text data through the model again and it adjusts the params/weights again
+            # KEY POINT: calculations happening in the params/weights that creates these emergent abilities get ajusted by training 
+            # you want an LLM to be a helpful assistant so they've been fined tuned to be a question-answer bot
+
+        # Humans do not understand how  fine tuning the model changes weights/params such that it learns to give question/answer
+
+        # Field of Study dedicated to understanding
+```
 
 ### Section X: Section Title
 
@@ -386,8 +419,3 @@ Think of Transformers as super-smart translators who can see the big picture of 
     #
 
 ```
-
-
-
-
-
