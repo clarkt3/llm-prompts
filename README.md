@@ -677,25 +677,51 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
+    # std prompt: consisting of only a question or instruction
+        # when did the movie I Robot come out?
+        # the movie "I, Robot" was released on July 16th 2024
+    # std prompt is a consistent term used in the research
 
+    # premis: you must ask the right q/ to get the right the right result
+
+    # this is no different than a person; if you ask the right question you get the right answer
+
+    # all through std prmpt is basic building block for pmpt eng. it is still an incradibly useful tool to us to gather infor from chatGPT
+
+    # key points: ask the right questions, get the right answers
 
 ```
-
 
 #### Prompt Library
 
 ```Python
+    
+    # Anthrop\c's Prompt Lib. https://docs.anthropic.com/en/prompt-library/library
 
-
+    # this is helpful and was created by engineers
 
 ```
 
-#### Exervise: Get Hyped to Learn!
+#### Exercise: Get Hyped to Learn!
 
 ```Python
+    
+    # create a personalized song to get your hyped on learning
 
-
-
+    # prompt: 
+    """
+    A hype-up song to get me excited and motivated to learn     
+    prompt engineering and how to work with Large Language Models. 
+    My name is Thomas, I live in Austin, Tx and I'm going to make a 
+    BILLION dollars!
+    
+    """
+   
+    '''Output:
+    
+    https://suno.com/song/88802670-4120-4471-be51-ef68db4c224c
+    
+    '''
 ```
 
 ### Section X: Section Title
