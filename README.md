@@ -492,6 +492,87 @@ Think of Transformers as super-smart translators who can see the big picture of 
     # ASI = Artificial Super Intelligence = AI at the superhuman (better than human) level
 
 ```
+
+#### Exercise: Use ChatGPT to Read the Research
+
+```Python
+
+    # have ChatGPT help you read the and understand Sparks of AGI: Early experiments with GPT-4
+        # prompt: uploaded document asked "What is this paper about?"
+        # output: 
+
+The paper "Sparks of Artificial General Intelligence: Early Experiments with GPT-4" by Microsoft Research discusses the capabilities of an early version of OpenAI's GPT-4, positioning it as a significant step toward artificial general intelligence (AGI). The authors argue that this version of GPT-4 exhibits more general intelligence than previous AI models, demonstrating remarkable abilities across various domains, including language, mathematics, coding, vision, medicine, law, and psychology.
+
+The paper emphasizes GPT-4's potential to solve novel and difficult tasks without special prompting, often achieving performance close to or surpassing human-level in these domains. The authors consider GPT-4 an early (though incomplete) version of an AGI system due to its breadth and depth of capabilities.
+
+Key points discussed in the paper include:
+
+1. **Multimodal and Interdisciplinary Composition**: GPT-4's ability to integrate and apply knowledge across different fields, including literature, mathematics, coding, and art. The model demonstrates proficiency in generating text, code, and even images, despite being a language model.
+
+2. **Mathematical Abilities**: The paper explores GPT-4's performance in mathematical reasoning and problem-solving, highlighting its ability to engage in mathematical conversations and model complex problems.
+
+3. **Interaction with the World**: GPT-4's capability to interact with tools and simulate environments, showcasing its planning and learning abilities.
+
+4. **Understanding and Interaction with Humans**: The model's theory of mind and explainability, reflecting its understanding of human motives and emotions.
+
+5. **Limitations of Autoregressive Architecture**: Challenges related to GPT-4's architecture, including limitations in planning and reasoning.
+
+6. **Societal Influences**: The paper discusses the broader implications of GPT-4's capabilities on society, addressing issues like misinformation, bias, and the potential impact on jobs and economics.
+
+The paper concludes by reflecting on the challenges and future directions for advancing toward more comprehensive AGI systems, highlighting the need for new paradigms beyond next-word prediction.
+
+
+    # prompt 2: Is there any mention of GPT4s coding proficency?
+
+    # output: 
+
+Yes, the paper discusses GPT-4's coding proficiency in detail, highlighting its remarkable abilities in generating and understanding code. Here are some key points from the paper regarding GPT-4's coding capabilities:
+
+1. **Code Generation**: GPT-4 can translate natural language instructions into code, solving complex coding challenges and creating real-world applications. The model demonstrates an impressive ability to generate functional code across different programming languages and frameworks.
+
+2. **Understanding Existing Code**: GPT-4 can comprehend existing codebases, allowing it to debug, optimize, and enhance code. The paper showcases examples of GPT-4 understanding and manipulating code snippets effectively.
+
+3. **Performance on Coding Assessments**: GPT-4 has demonstrated its coding proficiency by performing well on technical assessments. For instance, the paper mentions that GPT-4 could potentially pass mock technical interviews on platforms like LeetCode, solving coding problems with high accuracy and efficiency.
+
+4. **Interdisciplinary Tasks**: GPT-4 can combine coding skills with knowledge from other domains. The paper provides examples of GPT-4 generating code that incorporates elements from art, mathematics, and other fields, demonstrating its ability to synthesize information creatively and effectively.
+
+Overall, the paper portrays GPT-4 as having a strong aptitude for coding, with capabilities that are on par with or exceed previous models, and often approaching human-level proficiency in various coding tasks.
+
+
+
+    # prompt 3: Explain what the paper says about GPT4's proficiency in understanding and writing code.
+
+    # output:
+
+The paper "Sparks of Artificial General Intelligence: Early Experiments with GPT-4" highlights GPT-4's proficiency in understanding and writing code, emphasizing its ability to generate, comprehend, and manipulate code in a manner that showcases advanced reasoning and problem-solving skills. Here are the key points discussed in the paper regarding GPT-4's coding proficiency:
+
+1. **Code Generation**: 
+   - GPT-4 can translate natural language instructions into code across various programming languages. It can handle complex coding challenges and produce functional and efficient code.
+   - The model demonstrates the ability to generate entire programs based on high-level descriptions, showcasing its understanding of programming concepts and logic.
+
+2. **Comprehension of Existing Code**: 
+   - GPT-4 is capable of reading and understanding existing codebases, which enables it to debug, optimize, and extend code. This includes identifying errors, suggesting fixes, and improving code performance.
+   - The model can provide explanations for how specific code snippets work, making it useful for educational purposes and for developers seeking to understand unfamiliar code.
+
+3. **Performance on Coding Assessments**: 
+   - GPT-4's coding skills are demonstrated through its performance on technical assessments such as LeetCode. The paper notes that GPT-4 could pass mock technical interviews by solving coding problems quickly and accurately, with scores surpassing a significant percentage of human candidates.
+   - The paper highlights that GPT-4's ability to solve these problems efficiently, often using creative approaches, indicates a deep understanding of programming principles.
+
+4. **Interdisciplinary Code Generation**: 
+   - GPT-4 can combine coding with knowledge from other domains, such as art or mathematics, to create interdisciplinary applications. For example, it can generate code for visualizing mathematical concepts or creating artistic designs programmatically.
+   - The model's ability to integrate knowledge from different fields into its code generation process demonstrates its flexible understanding and application of coding skills.
+
+5. **Limitations and Challenges**: 
+   - While GPT-4 shows remarkable coding abilities, the paper acknowledges that it still faces challenges, particularly in tasks that require long-term planning or understanding complex interactions within large codebases.
+   - The model can sometimes make mistakes or produce incorrect code, especially when handling highly intricate or novel coding tasks that require deep domain-specific knowledge.
+
+Overall, the paper presents GPT-4 as a highly proficient code generator and interpreter, with capabilities that significantly advance the state of AI in programming tasks, often achieving or surpassing human-level performance.
+
+
+
+```
+
+
 ### Section X: Section Title
 
 
