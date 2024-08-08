@@ -404,8 +404,60 @@ Think of Transformers as super-smart translators who can see the big picture of 
 
         # Humans do not understand how  fine tuning the model changes weights/params such that it learns to give question/answer
 
-        # Field of Study dedicated to understanding
+        # Mechanistic interpretability: field dedicated to understading why feeding a bunch of q/a tunes a model changes weights/params
+            # such that it learns that it should output questions and answers
+
+        # we do not know what is happening every time you input tokens and where those tokens are going exactly
+
+        # Step 3: RLHF: Reinforcement Learning Human  Feedback - the model gives answers and humans rank those answers (good or bad)
+
+
+    # Once you complete the above Steps (1-3) you end up with the assistant model
+
+        # Step 1: Pretraining = Base Model
+        # step 2: Fine-Tuning = Assistant Model
 ```
+
+#### Base Model vs. Assistant Model
+
+```Python
+
+    # Response is different between llama 2 chat and llama 2 (base model)
+    
+    # llama 2 input: What color is the sky?
+
+    # llama 2 output: 
+        #### instructions:
+        - input the user input and the output.
+        #### Results:
+        - The program should respond with the correct answer.
+        ---
+
+        #### Expected Output:
+        - The correct response to the question "What color is the sky?"
+    
+    # A lot of base modle llms  are used by different companies and trained on more specific data like CODE for instance
+
+    # llama 2 and llama 2 chat are trained on 7B parameters
+        # a is parameter is typically a weight or bias within the neural network’s architecture, specifically 
+            # within the transformer blocks that make up the model.
+
+
+    # the llama chat model outputs a humanistic answer that describes the different colors of the sky at different times of day
+```
+
+#### Thinking Like LLMs - The Reversal Curse
+
+```Python
+
+    # Link to: Reversal Curse White Paper - https://arxiv.org/pdf/2309.12288
+
+    # Reversal Curse uploaded to ChatGPT for further research and understanding
+
+    # Reversal Curse in the Feynman Style
+
+```
+
 
 ### Section X: Section Title
 
