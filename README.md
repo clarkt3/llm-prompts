@@ -352,9 +352,25 @@ Think of Transformers as super-smart translators who can see the big picture of 
 
 ```Python
     
-    #
+    # Prompt GPT4o to give you the architecture of GPT as an image
+    # DALL-E is probided for free by MS Bing
 
-```
+    # prompt 1: create an image displaying the internal achitecture of a Large Language Model
+
+    # response: image of what it thinks a neural network looks like
+
+    # promt 2: Make this image more accurate and educational so that I can teach someone about LLMs with ease. Also, personify 
+    # the image so it is more humanistic
+
+    # promt 3: Recreate this image with a linear description of how the LLM works and what steps need to be taken for it to 
+    # understand data and context (long-range attention)  
+
+    # prompt 4: Move the drawing to the right side of the image and the description down the left side of the image so it's step 
+    # by step
+    
+    # desired image was harder to generate than expected and no perfect image was created!!! Frustrating!
+
+    ```
 
 
 
