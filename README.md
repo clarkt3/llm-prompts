@@ -339,18 +339,22 @@ Think of Transformers as super-smart translators who can see the big picture of 
         # LLMs can pay attention for longer and see context from further away
 ```
 
+## Day 6 of 25 | 2024-08-08
 #### GPT Meaning
 
 
  ```Python
 
     # GPT stands for Generative Pre-trained Transformer.
+     
+```
+#### Exercise: Visualize the LLM Architecture
 
-``` 
+```Python
+    
+    #
 
-
-#### GPT Meaning
-
+```
 
 
 
