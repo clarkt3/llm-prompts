@@ -665,9 +665,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 #### Overview of Our Prompting Framework
 ```Python
 
-    #
-    #
-    #
+    # prompt engineering framework - kept up to date
+        # 1. The setup - custom to your tasks
+        # 2. The instruction - clear, specific get desired reslut
+        # 3. The output - control the output, restrictions
+        # 4. The evaluation - eval, test prompts imperical analysis
 
 ```
 
