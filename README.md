@@ -650,9 +650,16 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # those who can make changes will be happier in life
 
+```
+### Section 5: Challenge - Build Your Second Game (Tic Tac Toe with AI opponent)
+
+##### Callenge Instructions:
+
+```Python
+
+    # section moved to another folder w/i this gh repo
 
 ```
-
 ### Section X: Section Title
 
 
