@@ -729,11 +729,40 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 #### Prompt Engineering Fundamentals - The Setup
 
+```Python
+
+    # How the models are setup and the user doesn't understand
+
+    # Set up the model to work the way you want it to work
+
+    # System Message, Context, Personas, Storing/Extracting Secrets
+
+    # Custom Instructions, Context
+
+```
+
+#### The System Message
+
+```Python
+
+    # crafting a prompt
+
+    # System Message (meta or default prompt):
+
+    # A default or initial prompt that is provieded to the model by it's creator
+
+    # 
 
 
 
-## Day X of 25 | 2024-08-10
+```
+## Day 8 of 25 | 2024-08-10
 
+```Python
+
+
+
+```
 
 ### Section X: Section Title
 
