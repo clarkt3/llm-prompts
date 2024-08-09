@@ -1007,7 +1007,73 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     '''
 
 ```
+#### Context - What it Is
+
+```Python
+
+    # more context = better result
+
+    # ask someone for a restaurant reco. they give you a standard reco
+
+    # ask where to take someone for an expensive date place, they'll give you a better reco
+
+    # Exercise: 
+
+        # prompt:
+
+        '''
+        I'm located in Austin, Texas, I really like Greek foood, I'm looking for somewhere remantic to go because it's
+        my first wedding anniversary, and I really love my wife so I'm willing to spend a lot on somewhere fancy.
+        '''
+
+        # response:
+
+        '''
+
+        For a special first wedding anniversary in Austin, Texas, here are some romantic and upscale Greek 
+        and Mediterranean restaurants you might consider:
+
+	    1.	Épicerie Café & Grocery: While not exclusively Greek, this charming spot offers a cozy 
+            and intimate atmosphere with a Mediterranean-inspired menu that includes several Greek dishes. 
+            It’s perfect for a relaxed yet romantic evening.
+	    2.	Saba Blue Water Cafe: Known for its Mediterranean cuisine, including Greek-inspired dishes, 
+            Saba Blue Water Cafe offers a stylish and elegant dining experience with a focus on fresh seafood and creative flavors.
+	    3.	Aba: Located in the heart of Austin, Aba is known for its Mediterranean cuisine, including many 
+            Greek influences. The ambiance is upscale and chic, with a beautiful outdoor patio that adds to 
+            the romantic atmosphere.
+	    4.	El Greco: If you want a more authentic Greek dining experience, 
+            El Greco offers a cozy and welcoming environment with traditional Greek dishes. 
+            It’s not as upscale as some others, but it provides a genuine taste of Greece.
+	    5.	Estância Churrascaria: While primarily a Brazilian steakhouse, they offer a 
+            luxurious dining experience with a variety of Mediterranean-inspired dishes 
+            and a romantic setting. It’s a great choice if you’re open to exploring different 
+            flavors while enjoying an elegant meal.
+
+        Make sure to check if reservations are needed, as popular spots tend to fill up quickly, 
+        especially for special occasions. Enjoy your anniversary celebration!
+
+        '''
+    # context matters A Lot and we've barely scratched the surface
+
+    # people who have problems with ChatGPT with simple prompts, don't give it enough context
+
+    # the more tokens the more better the attention mechnisim works 
+
+    # context needs to be give ihe right place at the right time
+
+    # if you want more meaningful responses
+
+    '''
+    You need to provide a lot more context or code using the right keywords in a specific order
+    to give you the output you want.
+    '''
+
+    # the reason the system message influences the model is because it provides it with more context
+
+```
+
 ## Day 8 of 25 | 2024-08-10
+
 
 ```Python
 
