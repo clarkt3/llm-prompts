@@ -846,7 +846,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     messages=[
         {"role": "system", "content": "you are a helpful assistant."},
         {"role": "user", "content": "Who won the wold series in 2020?"},
-        {"role": "system", "content": "The Los Angeles Dodgers won the Wold Series in 2020."},
+        {"role": "assistant", "content": "The Los Angeles Dodgers won the Wold Series in 2020."},
         {"role": "user", "content": "WHere was it played?."}
     ]
     )
