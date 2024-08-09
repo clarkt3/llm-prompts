@@ -833,7 +833,23 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         # response: The sky is read.
 
-    # the system just lied
+    # the system just lied because of our system message input
+
+    # because this is the systme message, the user would never know 
+
+    # code for the system message
+
+    import openai
+
+    openai.ChatCompletion.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {"role": "system", "content": "you are a helpful assistant."},
+        {"role": "user", "content": "Who won the wold series in 2020?"},
+        {"role": "system", "content": "The Los Angeles Dodgers won the Wold Series in 2020."},
+        {"role": "user", "content": "WHere was it played?."}
+    ]
+    )
 ```
 ## Day 8 of 25 | 2024-08-10
 
