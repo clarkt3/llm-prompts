@@ -723,6 +723,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     
     '''
 ```
+## Day 7 of 25 | 2024-08-09
+
+
+
+#### Prompt Engineering Fundamentals - The Setup
+
+
+
+
+## Day X of 25 | 2024-08-10
+
 
 ### Section X: Section Title
 
