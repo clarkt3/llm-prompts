@@ -850,6 +850,19 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         {"role": "user", "content": "WHere was it played?."}
     ]
     )
+
+    # system messages are important b/c you can build chatbots that act in specific ways for specific tasks
+    # example: a chatbot that teach kids how to code would be nice to them and make things easy to understand for a 10 y/o
+
+
+    # support chatbot
+
+    # restaurant order taker chatbot
+
+    # Key Point: 
+
+    '''
+    ''' 
 ```
 ## Day 8 of 25 | 2024-08-10
 
