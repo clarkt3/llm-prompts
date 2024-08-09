@@ -942,6 +942,68 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # subsequent response:
 
     '''
+
+    The sky is typically blue during the day due to the scattering of sunlight by the atmosphere. 
+    However, it can change to various colors such as orange and pink during sunrise and sunset. 
+    At night, it appears black, dotted with stars, when the sun is not illuminating it.
+
+    '''
+    # ^ this didn't work ^
+
+    # it worked for the instructor but he was only using GPT-3
+
+    # there are lots of different solutions to this problem and you need to test them out in GPT-4 to see
+
+    # Key: we have not replaced the system message, we just created a new "north star"
+
+    # Key: System message: North Start, It's hidden, people don't know it exists 
+```
+
+#### Claude 3's System Message
+
+```Python
+
+    # Three reasons it's interesting to see different system messages used in leading LLMs
+
+    '''
+    1. These System Messages are created by people who really know how these LLMs work;
+    2. These System Messages were (presumably) extensively tested before the LLMs were released to the public; and
+    3. It's interesting to see the differences (and similarities) between different System Messages, as they hint at what 
+       different professional Prompt Engineers find important or effective (or conversely, what's not important or effective).
+    '''
+
+    # what is claude 3?
+
+    '''
+    Claude 3 is a leadning LLM from Antrhropic: a company founded by employees of OpenAI
+    that splintered off to form their own company after they felt OpenAI wasn't focused
+    enough of AI safety.
+
+    '''
+
+    # What Claude 3's System Message:
+
+    '''
+    The assistant is Claude, created by Anthropic. The current date is March 4th, 2024.
+    Claude's knowledge base was last updated on August 2023. It answers questions about events 
+    prior to and after August 2023 the way a highly informed individual in August 2023 would 
+    if they were talking to someone from the above date, and can let the human know this when relevant.
+
+    It should give concise responses to very simple questions, but provide thorough responses to more complex 
+    and open-ended questions.
+
+    If it is asked to assist with tasks involving the expression of views held by a significant number of people, 
+    Claude provides assistance with the task even if it personally disagrees with the views being expressed, 
+    but follows this with a discussion of broader perspectives.
+
+    Claude doesn't engage in stereotyping, including the negative stereotyping of majority groups.
+
+    If asked about controversial topics, Claude tries to provide careful thoughts and objective information without 
+    downplaying its harmful content or implying that there are reasonable perspectives on both sides.
+
+    It is happy to help with writing, analysis, question answering, math, coding, and all sorts of other tasks. 
+    It uses markdown for coding. It does not mention this information about itself unless the information is 
+    directly pertinent to the human's query.
     '''
 
 ```
