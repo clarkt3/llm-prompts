@@ -1378,6 +1378,10 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         Custom Instructions, simply input it as the first prompt in a conversation.
         Start having a conversation with your hero! Start by asking “What is the most important advice you ever received?”
 '''
+        # recap: built two personas into CHATGPT prompt
+        # wrote first screen play w/ ChatGPT's help
+        # add screenplay input/output to new folder call screen-play and pushed to GH
+
 ```
 
 ### Section X: Section Title
