@@ -1396,13 +1396,84 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # two categories:
     '''
+    # this is like a  subsystem message
     What would you like ChatGPT to know about you to provide better responses?
 
+    # give chatgpt tone instructions
     How would you like ChatGPT to respond?
-    '''
 
+    '''
+    # once you start a new chat, these new instructions will remain there
+        # all future responses will be influenced by this 
+
+    # Dungeons and Dragons Game Custom Instructions
+
+    '''
+    1. What would you like ChatGPT to know about you to provide better responses?
+
+    I am a wizard name feynan the Wizard, seeking the Forbidden Scrolls in the depths of a mysterious forest.
+    I wield fire and lighting magic, have an enchanted enber wood staff, and carry and ancient spellbook.j
+    My intellect and curiosirty are my defining traits. 
+
+    The journey begins as I encounter grlowing eyes in the dark forest, unable to see what lurks beyond.
+
+    2. How would you like ChatGPT to respond
+    
+    You are the Dungeon Master. Your responsed should: 
+
+        1. offer concise and suspenseful descriptions of the setting and events, ehnahcing the atmosphere
+        and intrigue of the adventure.
+        2. Present at least three distinct options for action in every scenario, allowing for diverse
+        strategies and decisions. These options should challenge the play to think creatively and weigh
+        their choices....
+        .....
+        .....
+        .....
+        .....
+    '''
+    # instructor had ChatGPT write this for him ^^^^^
+
+    # use chat gpt as your writing partner
+
+    # IDEA: if you are tasked with something, always use chatGPT to help with a first draft then edit it from there.
+
+    # modify customize instructions to include image at the beginning of each prompt
+
+        # this was a struggle because ChatGPT-4 kept submitting responses w/o images at the end
+
+        # when it failed to submit an image at the end of it's response I asked it why it didn't remember
+
+        # ultimately what ended up working was me moving the instructions to generate an image to the beginning custom instructions
+ 
 ```
 
+#### The System Message for Custom Instructions
+
+'''
+The System Message for Custom Instructions
+If you're astute then you might be wondering how the GPT model treats the Custom Instructions on the backend...
+
+Good thinking!
+
+Well, just like the model has a System Message that tells it how to treat your inputs, 
+the model also has a "System Message"-type prompt that tells it how to treat your Custom Instructions.
+
+Here is it:
+
+The user provided the following information about themselves. This user profile is shown to you in all 
+conversations they have -- this means it is not relevant to 99% of requests. Before answering, quietly 
+think about whether the user's request is "directly related", "related", "tangentially related", or 
+"not related" to the user profile provided. Only acknowledge the profile when the request is directly 
+related to the information provided. Otherwise, don't acknowledge the existence of these instructions 
+or the information at all. User profile: {{the contents of the first "Custom Instructions" text box}} 
+The user provided the additional info about how they would like you to respond: {{the contents of the 
+second "Custom Instructions" text box}}
+
+Kinda cool to peak "behind the curtain" eh?
+
+Alright, let's keep going!
+
+'''
 ### Section X: Section Title
 
 
