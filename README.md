@@ -1088,8 +1088,30 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 #### Context - The Context Window (Continued from 2024-08-09)
 
 ```Python
+    # think of a token limit as a context windown
+        # context window = max number of tokens a model can handle during a conversation
+    
+    # think of a context window like this:
+        # the number of tokens (or words) that the model can keep it its head at one time
     
     # Remember 1 token = 0.75 words (approx)!
+    
+    # GPT-3.5 token limit = 4,096 tokens  at a time
+
+    # token limits will change and increase over time
+
+    # GPT-4 token limit = 8,192 tokens
+
+    # creators of models are always working to increase token limits
+
+    # claude 2 model from anthropic has 100,000 token limit
+
+        # 10x GPT-4s token limit
+
+    # Key: technically speaking, GPT has no memory
+        '''
+        '''
+
 
 ```
 
