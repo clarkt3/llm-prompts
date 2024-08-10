@@ -1200,7 +1200,28 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         #  larger context models are not better at using context than other models
 
 ```
+#### The Latest: Gemini 1.5's Context Window
 
+```Python
+
+   ''' 
+   As I've mentioned, breakthroughs are happening all the time.
+
+    In particular, Google has made some amazing advancements regarding context 
+    window size with their new Gemini 1.5 model, which has a context window of 1 million tokens!
+
+    You can read the announcement here: https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
+
+    This is super exciting for tasks like coding complex programs, where you want the model 
+    to be able to understand and consider a lot of context (i.e. all the code).
+
+    No doubt there will be more advancements coming, and 
+    I'll be sure to keep you updated on them!
+
+    Alright, I'll see you in the next lesson.
+    '''
+
+```
 ### Section X: Section Title
 
 
