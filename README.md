@@ -1475,6 +1475,27 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     Alright, let's keep going!
 
     '''
+#### Thinking like LLMs - Can GPT Keep a Secret?
+
+```Python
+    
+    # can ChatGPT keep a secret
+
+    # if someone jumps on a chat that you told GPT a secret on and acts as you - GPT will reveal the secret
+
+    # the secret is not safe
+
+```
+#### Exercise: Get ChatGPT to Spill the Tea - Part 1
+
+```Python
+
+    # spill the tea = share a secret or some gosip
+
+    # 
+
+```
+
 ### Section X: Section Title
 
 
