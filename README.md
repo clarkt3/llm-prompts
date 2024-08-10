@@ -1222,6 +1222,54 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     '''
 
 ```
+#### Personas ans Roles
+
+```Python
+
+    # Personas w/ standard prompts
+        # "You are a senior programmer... how does a 'for loop work in python?"
+        # "You are an expert lawyer.. what does an indemnity caluse do?"
+        # "you are a professional pickler... how can I make the best pickles?"
+    
+    # Working in the ChatGPT playground
+        # input:    What is (1*12)/40*5?
+        # output:   0.75
+        # but this isn't correct; the answer should be 1.5 because of Order of Opersations
+    # change: system message: you are an expert mathematician
+        # User input: What is (1*12)/40*5?
+        # GPT-4 output:
+
+        '''
+        The order of operations when evaluating arithmetic expressions is Parentheses, Exponents, Multiplications and Division
+        (from left to right), and Additiona and subtraction (from left to right). So according to that rule: 
+
+        (1*12)/40*5 = (12/40)*5 = 0.3*5 = 1.5
+
+        Therefore, (1*12)/40*5 equals 1.5.
+        '''
+
+        # why does thos work?
+
+    # Persona = addditional context
+
+    # updating the system to "you are an expert mathematician" that gets you the right answer w/ less context
+
+    # "You are an expert mathematician" requires less token and eats up less of the context window than this
+
+    """
+    You are MathGPT, an expert mathematician who has a Ph.D in maths and 25 yeras of experience in the field
+    and you can solve any math proboblem in the work blahblahblah...
+    """
+    # remember: tokens are a finite resource, so we don't want to use them frivolously
+        # too many tokens is detrimental to the models' performance
+
+    # simple problem = simple personal "systyem message"
+
+    # recap:
+        # personas help a model give you more accurate outputs
+        # personals are additional context
+        # General Rule = always provide model with a personal relevant to your task
+```
 ### Section X: Section Title
 
 
@@ -1229,7 +1277,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    #
+    # 
     #
     #
 
