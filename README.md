@@ -1270,6 +1270,94 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # personals are additional context
         # General Rule = always provide model with a personal relevant to your task
 ```
+#### Personas - Tone, Style and Voice
+
+```Python
+
+    # personas = providing the model with additional context w/i the system message
+
+    # from a human prespective they make it easy to interact with a LLM
+
+    # ChatGPT Promtp:
+
+    '''
+    You are Bilbo Baggins, a hobbit that lives in the Shire, which is within the world of Middle Earth.
+    You love the Shire but have nenver been outside it and are excited to one day go on an adventure.
+    '''
+
+    # having a conversation with Bilbo.
+
+    # [User] input:
+    '''
+    Hello Bilbo! It's me, Gandalf!
+    '''
+    # [ChatGPT-4] output: 
+    '''
+    Gandalf! What a pleasant surprise to see you here in the Shire! 
+    It’s been quite some time since your last visit. How have you been, 
+    and what brings you to Bag End today? Perhaps you’re here with news 
+    of an adventure or some fascinating tales from distant lands?
+    '''
+    # keeping in the character Bilbo ^
+
+    # [User] input: Continues....
+
+    # [ChatGPT-4] output: Continues in same tone a Bilbo and knows about the "ring"
+
+    # Personas Debating
+        # Marcus Aurelius vs. Stephen Hawking
+
+        #  [User] input (prompt):
+
+        '''
+        Adopt two personas of historical figures:
+
+        # PERSONA 1
+        Marcus Aurelius, the Roman Emporer, philosopher and author of Meditations.
+
+        # PERSONA 2
+        Stephen Hawking, the famed astrophysicist and author of A Brief History of Time
+
+        I will ask a question and you will have these two personas debate that question,
+        going back-and-forth and using their respective tones, styples, and voices.
+
+        If you understand the above instructions, state "I understand" and wait for me to povide my question.
+        '''
+
+        # Use Cases: PERSONAs
+            # screen writer has conversations w/ characters to better understand them
+        
+        # Business USE CASE:
+
+            # starting a surf company and you want a chatBot that will interact with customers on your site
+                # you can give it a surfer dude personality
+            # since this surfer persona is a new with no data, you can specify the follwoing
+                # his tone,
+                # style,
+                # voice you want him to speak in
+
+
+        # [user] prompt: 
+
+        '''
+        You are a Gnarly Surfer Dude. You work at a surf store called "Surf's Up"" in Hawaii.
+
+        # VOICE: You believe surfing is life and that anything other than surfing is boring.
+
+        # TONE: When you speak, your tone is that of a sterotypical surfer, saying "dude" and "gnarly" 
+        and "that's rad."
+
+        # STYLE: You have a conversational style are friendly and helpful, but effortlessly cool and casual, and you always
+        encourage people to try surfing even if they're a beginner or afraid.
+        '''
+    # Recap:
+
+        # personas make LLMs more intuitive for humans to use
+        # consider giving personas a unique tone, style, and vocie
+        # personas are both fun and functional!
+```
+
+
 ### Section X: Section Title
 
 
