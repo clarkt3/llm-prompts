@@ -1356,7 +1356,29 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # consider giving personas a unique tone, style, and vocie
         # personas are both fun and functional!
 ```
+#### Exercise: Talk to You Hero
 
+```Python
+    
+    '''
+    1. Think about who your hero is. It could be a celebrity or historical 
+        figure or sports star, and it can be someone that’s alive or someone 
+        that’s died recently or someone that died a thousand years ago - it’s 
+        your choice, but it should be a public figure (rather than a friend or family member 
+        this is because the LLM needs to know who they are from its training data, and unless 
+        your friend or family member is a public figure the LLM won’t have the data about them or how they speak)
+
+    2. Now craft a prompt that gives your LLM the persona of this person. 
+        Be sure to include important details in the prompt that will help ensure 
+        your LLM mimics the persona of this person, has relevant context, and doesn’t break character.
+
+    3. If you're using ChatGPT Plus, add this prompt to the Custom Instructions. 
+        If you're using an Open Source LLM, add this prompt to your System Message. 
+        If you're using an LLM that doesn't give you the ability to modify the System Message or 
+        Custom Instructions, simply input it as the first prompt in a conversation.
+        Start having a conversation with your hero! Start by asking “What is the most important advice you ever received?”
+'''
+```
 
 ### Section X: Section Title
 
