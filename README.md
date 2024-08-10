@@ -1085,11 +1085,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ## Day 8 of 25 | 2024-08-10
 
 
-
+#### Context - The Context Window (Continued from 2024-08-09)
 
 ```Python
-
-
+    
+    # Remember 1 token = 0.75 words (approx)!
 
 ```
 
