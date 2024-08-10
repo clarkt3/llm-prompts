@@ -1449,31 +1449,32 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 #### The System Message for Custom Instructions
 
-'''
-The System Message for Custom Instructions
-If you're astute then you might be wondering how the GPT model treats the Custom Instructions on the backend...
+    '''
+    The System Message for Custom Instructions
 
-Good thinking!
+    If you're astute then you might be wondering how the GPT model treats the Custom Instructions on the backend...
 
-Well, just like the model has a System Message that tells it how to treat your inputs, 
-the model also has a "System Message"-type prompt that tells it how to treat your Custom Instructions.
+    Good thinking!
 
-Here is it:
+    Well, just like the model has a System Message that tells it how to treat your inputs, 
+    the model also has a "System Message"-type prompt that tells it how to treat your Custom Instructions.
 
-The user provided the following information about themselves. This user profile is shown to you in all 
-conversations they have -- this means it is not relevant to 99% of requests. Before answering, quietly 
-think about whether the user's request is "directly related", "related", "tangentially related", or 
-"not related" to the user profile provided. Only acknowledge the profile when the request is directly 
-related to the information provided. Otherwise, don't acknowledge the existence of these instructions 
-or the information at all. User profile: {{the contents of the first "Custom Instructions" text box}} 
-The user provided the additional info about how they would like you to respond: {{the contents of the 
-second "Custom Instructions" text box}}
+    Here is it:
 
-Kinda cool to peak "behind the curtain" eh?
+    The user provided the following information about themselves. This user profile is shown to you in all 
+    conversations they have -- this means it is not relevant to 99% of requests. Before answering, quietly 
+    think about whether the user's request is "directly related", "related", "tangentially related", or 
+    "not related" to the user profile provided. Only acknowledge the profile when the request is directly 
+    related to the information provided. Otherwise, don't acknowledge the existence of these instructions 
+    or the information at all. User profile: {{the contents of the first "Custom Instructions" text box}} 
+    The user provided the additional info about how they would like you to respond: {{the contents of the 
+    second "Custom Instructions" text box}}
 
-Alright, let's keep going!
+    Kinda cool to peak "behind the curtain" eh?
 
-'''
+    Alright, let's keep going!
+
+    '''
 ### Section X: Section Title
 
 
