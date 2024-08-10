@@ -1109,9 +1109,39 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # 10x GPT-4s token limit
 
     # Key: technically speaking, GPT has no memory
-        '''
-        '''
+    '''
+    But every time you have a conversation that convo history is bundled up
+    and packed on to the prompt you are sending.
 
+    ChatGPT is constantly reminded of you rentire conversation everytime 
+    you send a new chat.
+    '''
+    # input tokens + output tokens = total context window tokens
+        # there's no true memory
+        # it's constantly reminded of the previous conversation - called context
+
+    # The token limit also functions as the context window 
+
+    # when you hit your token limit, the convo doesn't end the system just removes tokens
+        # to make room for the new tokens 
+
+    # in other words, the context window just shifts
+
+    # Real danger here is that you won't get a warning context just won't be available
+
+    # Important: token limit (context window) must be taken into consideration when Prompt Engineering
+
+    # b/c ChatGPT will answer confidently and you may think it's taking on past context but it's not
+        # if/when it's outside of the window
+
+    # Key Point: Managing the token limit is crucial to maintaining the accuracy and coherence of a model's outputs!
+
+    # example: ask chatgpt for car reccomendation. at first you state that saftey is the number one factor
+        # you hit token limit and it forgets that safety is your first reccomendation
+
+    # claude 2 is the best because it has a 100,000 token context window -- wow!!!
+
+    # Key Point: Be extremely concious of staying within your context window
 
 ```
 
