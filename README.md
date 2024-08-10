@@ -1384,6 +1384,25 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```
 
+#### Custom Instructions
+
+```Python
+
+    # not quite a system message but better than a simple prompt
+
+    # how to set up Coustom instructions (web app only)
+        # start new chat
+        # got to setting and select 'Customize ChatGPT,' 'Custom Instructions'
+
+    # two categories:
+    '''
+    What would you like ChatGPT to know about you to provide better responses?
+
+    How would you like ChatGPT to respond?
+    '''
+
+```
+
 ### Section X: Section Title
 
 
