@@ -1151,7 +1151,53 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # How effectively a model uses more context
 
-    # 
+    # info at the beginning and end of context window makes GPT more accurate
+
+    # if it's in the middle, it might get lost or remembered less frequrently
+
+    # info in the middle gets lost 
+
+    # too much context (even within the context window) can be less effective than no context given
+
+    # if info is given in the middle of the context window, the model outperforms the results with no contect given
+
+    # sometimes context is detrimental to accuracy
+    # too much context is detrimental to accuracy
+
+    # GPT was much more accurate when the info was at the beginning of the context window than when it was at the end of it
+
+    # RULE: Put the most important context at the begnning of the context window
+        # how the human brain functions too
+
+    # Primacy Effect: 
+
+    '''
+    when given a list of number to remember, humans remember the ones at the beginning and end 
+    of the list
+    '''
+    # Recency Effect:
+
+    '''
+    the last numbers are remembered too because of the recency effect
+
+    The numbers in the middle are usually harder to recall because of their intermediate position in sequence
+    '''
+
+    # Key Point: too much context = decreased accuracy
+    
+    # make sure you're using the right context in the right order within your context window
+
+    # key: a higher context window doesn't mean better accuracy
+
+
+    # Things to Remember:
+
+        # important info goes at the front of your context window
+
+        # too much context hurts = only provide context that is required
+            # we will learn how to provide the right context at the right time in the right way
+
+        #  larger context models are not better at using context than other models
 
 ```
 
