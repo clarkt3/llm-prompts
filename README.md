@@ -1071,8 +1071,20 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # the reason the system message influences the model is because it provides it with more context
 
 ```
+#### Context - The Context Window
 
+```Python
+
+    # General Rule: more context = better results
+        # too much context can be ineffective w/ neg impacts
+        # b/c chatGPT has a token limit
+    
+    # Token Limit = Context Window
+
+```
 ## Day 8 of 25 | 2024-08-10
+
+
 
 
 ```Python
