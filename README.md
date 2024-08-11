@@ -1722,7 +1722,21 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+    # what is the user message? 
+        # the instruction that you give to the model
+        # input -> LLM -> Output
+
+    # The User Message = The Input
+
+    response = openai.ChatCompletition.create(
+    model="gpt-3.5-turbo",
+    messages=[
+    {"role": "system", "content": "you are a helpful assistant."},
+    {"role": "user", "content": "Why won the World Cup in 2022?"},
+    {"role": "assistant", "content": "Argentina won the World Cup in 2022."},
+    {"role": "user", "content": "Where was the final game played?"}
+    ]
+    )
 
 ```
 ### Section X: Section Title
