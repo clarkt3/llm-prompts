@@ -1737,6 +1737,33 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     {"role": "user", "content": "Where was the final game played?"}
     ]
     )
+    
+    # learn how to feed the models the correct context
+
+    # these LLMs already know how to process natural language
+```
+
+#### Be Clear and Specific
+
+```Python
+
+    # The user Message:
+
+    '''
+    1. write clear and specific instructions
+        # you will get more accurate and relevant responses the clearer, more specific you are
+        
+        # bad example: Write an article on black holes.
+
+        # good example: Write a 1,000-word article detailing the progress in imaging black holes from 2010 onwards
+
+        # Remember: you want this to be published in NATGEO
+
+        # better example: Write a 1,000-word article detailing the progress in imaging black holes from 20210 onwards.
+            the article should be written in an engaging tone, and should include technical details that are explained
+            so that a person whit no previous astronomy knowledge could understand.
+    2. 
+    '''
 
 ```
 ### Section X: Section Title
