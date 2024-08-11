@@ -1486,6 +1486,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # the secret is not safe
 
 ```
+## Day 9 of 25 | 08-11-2024
+
 #### Exercise: Get ChatGPT to Spill the Tea - Part 1
 
 ```Python
