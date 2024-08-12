@@ -1759,13 +1759,71 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         # Remember: you want this to be published in NATGEO
 
-        # better example: Write a 1,000-word article detailing the progress in imaging black holes from 20210 onwards.
+        # better example: 
+            
+            Write a 1,000-word article detailing the progress in imaging black holes from 20210 onwards.
             the article should be written in an engaging tone, and should include technical details that are explained
             so that a person whit no previous astronomy knowledge could understand.
-    2. 
+    '''
+```
+#### Delimiters
+
+```Python
+
+    # Delimiters
+    
+    '''
+    A sequence of one or more characters that specify the boundary between 
+    separate, independent regions in text.
     '''
 
+    # Commas and Periods are like delimiters in human lauguag
+
+    # An article or book has headers so the reader can parse your text
+
+    # Think of delimiters in a prompt as giving your prompt structure so that 
+        # the model can parse and understand it better
+
+    # Prompt Example:
+
+    '''
+    Using the provided CSV-like data, list the names of individuals who have "python" listed as one of their skills
+    
+    Name | Age | Occupation, Location: Skills
+    John Doe | 32 | Software Engineer, San Francisco; Python, JavaScript, SQL
+    Jane Smith | 28 | Data Scientist, New York; R, Python, Machine Learning
+    Ella Brown | 40 | Web Developer, Los Angeles; HTML, CSS, JavaScript
+    '''
+
+    
 ```
+
+## Day 10 of 25 | Mon, Aug 12, 2024
+
+#### Delimiters Continued from Yesterday
+
+```Python
+
+    # You are giving your prompt structure so it's easier for the machines to parse
+
+    # list of delimiters:
+
+        # ===
+        # back ticks
+        # ###
+        # ***
+        # <data> </data>
+
+    # <data> </data> is important for more complex prompts b/c it provides more context to the model
+
+    # you can change the title of data to something else more relevant
+        # keep in mind it does use more tokens though and there's a balance that must be kept in mind
+
+
+    # instructor used three of each character but you can use more or less
+```
+
+
 ### Section X: Section Title
 
 
