@@ -1821,6 +1821,27 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 
     # instructor used three of each character but you can use more or less
+
+    # KEY: Be consistent with the model 
+
+        # if you want to seperate the data part from the instruction part of the prompt, put the data w/i <data> </data>
+
+    # why do the LLMs understand delimiters
+
+        # b/c of their training data - they were fed a ton of training data
+        # one of the best sources of data is code and code has delimiters in it
+        # modles have been exposed to a ton of code; these models have seen and learned the patterns associated w/ delimiters
+        
+        # the tech behind llms is really great a recognizing patterns; and delimiters, by nature, create patterns
+
+    # GOAL: Always use these delimiters to create patterns in your own user message that your model can recognize; and provide structure
+
+        # the is especially important when you start to use larger, more complex prompts 
+
+    # RECAP:
+
+        # be clear and specific
+        # use delimiters to provide structure to your prompt
 ```
 
 
