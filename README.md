@@ -1843,7 +1843,71 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # be clear and specific
         # use delimiters to provide structure to your prompt
 ```
+## Day 11 of 25 | Tue, Aug 13, 2024
 
+#### Exercise: Identifiy Delimiters
+
+```Python
+
+    # How many delimiters are in this prompt?
+
+    '''
+     Name | Age | Occupation, Location: Skills
+     John Doe | 32 | Software Engineer, San Francisco; Python, JavaScript, SQL
+     Jane Smith | 28 | Data Scientist, New York; R, Python, Machine Learning
+     Ella Brown | 40 | Web Developer, Los Angeles; HTML, CSS, JavaScript
+    '''
+
+    # Guess (it's a bit of a trick question)
+        
+        # there are no delimiters in the above promp
+
+    # The answer is - there are a lot of delimiters in the above prompt, in fact, there are 23 
+
+    # number one is
+        # '''####'''
+        # each | between all the words
+        # each , between the words
+        # each ; between the words
+        # all of those equal 23
+
+    # delimiters are basically puncuation to help the machine understand your prompt
+
+    # these delimiters are important b/c if you look at the prompt it it's asking for people with python experience
+
+    # the way that the machine can tell that python is within the experience section, is by reading to the right of the semi-colon (;)
+
+    # Test: See if ChatGPT does understand the delimiters
+
+        # Using the provided CSV-like data, list the names of individuals who have "Python" listed as one of their skills
+
+        # update user list:
+
+        '''
+        ####
+        
+        Name | Age | Occupation, Location: Skills
+        John Doe | 32 | Software Engineer, San Francisco; Python, JavaScript, SQL
+        Jane Smith | 28 | Data Scientist, New York; R, Python, Machine Learning
+        Ella Brown | Python | 40 | Web Developer, Los Angeles; HTML, CSS, JavaScript
+        '''
+
+    # Result: Since Python was not in the correct place, it didn't register ELLA BROWN as a Python Developer
+
+    # chatGPT Output: 	
+
+    '''	
+    1.	John Doe
+	2.	Jane Smith
+    '''
+
+    # Delimiters Matter a Lot!!
+
+    # Think about this when you're applying for jobs too; things will get skipped if they're not in the right place
+
+    # Must understand delimiters as they're a fundemental part of being great a prompt engineering
+
+```
 
 ### Section X: Section Title
 
