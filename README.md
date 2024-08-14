@@ -1910,7 +1910,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ## Day 12 of 25 | Wed, Aug 14, 2024
 
-####  
+#### X-Y Problem
+
+```Python
+
+    
+
+```
 
 
 ## Day X  of 25 | Day, Mon XX, 2024
