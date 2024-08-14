@@ -1942,8 +1942,72 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # X = What you wantto know about
         # Y = What your question actually asks about
 
-    # 
+    # Example 1 of X-Y Problem (This is A Trap)
 
+        # X:  I want more detailed responses
+        # Y:  I can get more detailed responses by providing longer prompts with more context
+        # BAD Question: How can I get the model to accept longer prompts?
+                
+            # simply asking "longer" questions doesn't get "better" answers
+            # fine tuning the model gets you better results
+
+        # GOOD Question: How can I get the model to produce more detailed responses. (fine-grained prompt configuration(s))
+
+    # think before you ask questions wha do you really want to get from your responses?
+
+    # Example: X-Y Problem using ChatGPT
+
+        # prompt: How can I grab the last three characters in a filename using Python?
+
+        # response: To grab the last three characters of a filename in python, you can use string slicing.
+
+            # Here's an example
+
+            filename = "example.txt"
+            last_three_characters = filename[-3:]
+            print(last_three_characters)    # Outputs: "txt"
+    
+    # the issue with the above example is that only the Y was focused on not the X
+
+
+    # the X is simply - how do I get the file extension of a given file
+
+    # Better Question to ask ChatGPT
+
+        # prompt: I want to be able to get the file extension of various files using Python. How can I do that?
+
+        # response: 
+
+        '''
+        Certainly! To get the file extension of a given filename in Python, you can use the 'os.path' module, 
+        specifically the `splitext` method.
+       
+       Here's how you can do it:
+       '''
+    
+        import os
+        filename = "example.txt"
+        basename, extension = os.path.splittext(filename)
+        print(extension)
+
+    # ^ this is a much better prompt and better response
+
+    # the X-Y problem is everywhere, whether you realize it or not
+
+    # now that you know about it, the next time someone asks you a question
+
+        # think: are they asking you about X or about Y 
+        # ask yourself the same question - am I asking about x or y
+
+    # general rule:
+
+        # Goals > Solutions
+        # you input shouild explicitly state what your goal is
+            # what the problem you're trying to solve is; what you X is rather than your proposed solution for getting there
+
+    # when prompting: start with your goals; suggest your why
+
+    # always start with your goals
 ```
 
 
