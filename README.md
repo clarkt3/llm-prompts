@@ -1908,7 +1908,12 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # Must understand delimiters as they're a fundemental part of being great a prompt engineering
 
 ```
+## Day 12 of 25 | Wed, Aug 14, 2024
 
+####  
+
+
+## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
 
