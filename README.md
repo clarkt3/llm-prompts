@@ -1920,6 +1920,30 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # need to be able to ask the right questions in the right way
 
+    # The X-Y Problem
+        
+        '''
+        When you try to solve a problem (x) by asking about a solution you think is appropriate (y)
+        rather than asking about X directly.
+        '''
+
+    # what happens to the human brain?
+
+    '''
+    We get so hyperfocused on a specific thing, specific solution, and we can't take
+    a step back to see the bigger picture.
+    '''
+
+    # train yourself to realize you're in this position so you can take a step back and smarter questions
+
+
+    # X-Y problem
+
+        # X = What you wantto know about
+        # Y = What your question actually asks about
+
+    # 
+
 ```
 
 
