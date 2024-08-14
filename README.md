@@ -1914,7 +1914,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+    # input is the most important part of prompting (probably)
+
+    # poor input = poor output every time
+
+    # need to be able to ask the right questions in the right way
 
 ```
 
