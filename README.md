@@ -2013,6 +2013,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 #### Exercise: Idenfity X
 
+```Python
+
+    # Task: Revise the Draft Prompt so that it addresses X instead of Y.
+
+    # Draft Prompt: 
+
+```
 
 
 ## Day X  of 25 | Day, Mon XX, 2024
