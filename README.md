@@ -2027,6 +2027,23 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     from Earth would be prohibitively heavy and expensive. Therefore, a system is needed 
     to extract and purify water from available resources in space or on Mars.
     '''
+    # Problem:
+
+    '''
+    We need a system to ensure a consistent supply of fresh water for astronauts 
+    during a multi-year mission to Mars, considering the limitations of cargo 
+    weight and the potential to utilize Martian resources.
+    '''
+
+    # Draft Prompt (Y):
+
+    '''
+    Develop a state-of-the-art system capable of efficiently extracting and 
+    purifying water from the Martian atmosphere, despite its sparse water 
+    vapor content, to ensure safe and sustainable consumption for astronauts 
+    during extended missions on Mars. Consider factors such as energy efficiency, 
+    scalability, and the adaptability of the system to varying atmospheric conditions.
+    '''
 
 ```
 
