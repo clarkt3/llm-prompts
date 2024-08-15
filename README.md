@@ -2017,7 +2017,16 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # Task: Revise the Draft Prompt so that it addresses X instead of Y.
 
-    # Draft Prompt: 
+    # Scenario: 
+
+    '''
+    In the near future, space agencies are planning a manned mission to Mars. 
+    One of the primary challenges is ensuring the astronauts have a consistent 
+    supply of fresh water for the duration of the mission, which could last several 
+    years, including time on the Martian surface. Transporting all the required water 
+    from Earth would be prohibitively heavy and expensive. Therefore, a system is needed 
+    to extract and purify water from available resources in space or on Mars.
+    '''
 
 ```
 
