@@ -2044,7 +2044,14 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     during extended missions on Mars. Consider factors such as energy efficiency, 
     scalability, and the adaptability of the system to varying atmospheric conditions.
     '''
+    # Refined Prompts:
 
+        # Prompt 1 (warming GPT):
+
+        '''
+        In the near future space agencies are planning a manned mission to Mars. 
+        They need to ensure
+        '''
 ```
 
 
