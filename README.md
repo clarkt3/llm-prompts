@@ -2120,7 +2120,16 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         # Better Prompt:
 
-        
+        '''
+        Design a sustainable water supply solution for astronauts on a multi-year Mars mission. 
+        Your solution must address the following factors:
+
+        Mars' Resources: Feasibility of using underground ice or surface frost.
+        Recycling: Implement advanced water recycling techniques onboard.
+        Safety: Ensure extracted or recycled water is pure and safe for consumption.
+        Energy Efficiency: Evaluate energy requirements and propose sustainable sources.
+        Scalability: Ensure adaptability for varying mission durations or crew sizes.
+        ''' 
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
