@@ -2111,8 +2111,18 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # Note: this open-ended question helps me get more ideas about how this problem works and what the potential solutions are
 
 ```
+#### Solution: Idenfity X
 
 
+```Python
+
+    # Example of a prompt that better focuses on X:
+
+        # Better Prompt:
+
+        
+
+```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
