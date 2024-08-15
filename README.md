@@ -2009,6 +2009,10 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # always start with your goals
 ```
+## Day 13 of 25 | Thu, Aug 15, 2024
+
+#### Exercise: Idenfity X
+
 
 
 ## Day X  of 25 | Day, Mon XX, 2024
