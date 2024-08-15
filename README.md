@@ -2130,7 +2130,14 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         Energy Efficiency: Evaluate energy requirements and propose sustainable sources.
         Scalability: Ensure adaptability for varying mission durations or crew sizes.
         ''' 
+    # instructuor notes: 
 
+    '''
+    Like with any prompt there are a hundred ways you could approach X, so if yours doesn’t look similar 
+    to this don’t worry! The key is that your prompt should be focused on X (creating a solution for supplying 
+    water to astronauts on Mars) rather than on Y (extracting water from the Martian atmosphere to supply water 
+    to astronauts on Mars).
+    '''
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
