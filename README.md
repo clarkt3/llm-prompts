@@ -2160,7 +2160,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
             # 3. Few-ShotPrompting
 
 ```
+#### Zero Shot Prompting
 
+```Python
+
+    
+
+```
 
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
