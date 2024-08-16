@@ -2149,9 +2149,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # 2nd Tier:  Models are trained further on RLHF (Reinforcement Learning w/ Human Feedback)
 
-    # 3rd Tier: In-Context Training
+    # 3rd Tier: In-Context Training (in-context learning)
 
-        # a prompt engineer does this
+        # a prompt engineer trains the model by giving it information in the context of your prompt
+
+        # there are three sub-techniques:
+
+            # 1. Zero-Short Prompting
+            # 2. One-Shot Prompting
+            # 3. Few-ShotPrompting
 
 ```
 
