@@ -2194,9 +2194,16 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # the best way to combat this is to train the model with your own data, which is what w/ one-shot, few-shot prompting
 
+```
+## Day 15 of 25 | Sat, Aug 17, 2024
+
+#### One Shot and Few Shot Prompting
+
+```Python
+
+    # 
 
 ```
-
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
