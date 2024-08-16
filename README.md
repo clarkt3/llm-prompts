@@ -2164,8 +2164,19 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+    # Zero Shot Prompting
 
+    '''
+    ability of a model like GPT-4 to perform a task without having been explicitly trained on that task
+    '''
+
+    # ZSP mean the language model can do something without any further training
+
+    # Example of Zero Shot Prompting
+
+    '''
+    Translate this sentence into French: "I love pickles. Specifically dill pickles. Okay, now I'm hungry..."
+    '''
 ```
 
 ## Day X  of 25 | Day, Mon XX, 2024
