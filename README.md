@@ -2175,8 +2175,22 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # Example of Zero Shot Prompting
 
     '''
+    Prompt: 
+
     Translate this sentence into French: "I love pickles. Specifically dill pickles. Okay, now I'm hungry..."
     '''
+
+    '''
+    GPT-4 Response:
+
+    J'adore les cornishons. Specifiquement les cornichons a l'aneth. D'accord, maintenant j'ai faim... 
+    '''
+
+    # the language model can do this translation w/o specific training
+
+    # 
+
+
 ```
 
 ## Day X  of 25 | Day, Mon XX, 2024
