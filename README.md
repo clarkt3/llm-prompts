@@ -2188,7 +2188,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # the language model can do this translation w/o specific training
 
-    # 
+    # no in-context training == Zero Shot Prompting and you've been doing this all along w/o knowing what it's called
+
+    # the quality of the output can vary and errors or not accurate info will be in response
+
+    # the best way to combat this is to train the model with your own data, which is what w/ one-shot, few-shot prompting
 
 
 ```
