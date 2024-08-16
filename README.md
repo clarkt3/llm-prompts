@@ -2067,10 +2067,10 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         which can then be collected and purified.
 
     2. Ice Mining
-    Subsurface Ice: Mars has large amounts of subsurface ice, especially near the poles. 
-    Robotic systems could be used to mine this ice, which can then be melted and purified for consumption. 
-    Surface Ice Deposits: In some regions, water ice is located just beneath the surface. 
-    Autonomous rovers could dig and collect this ice more easily.
+        Subsurface Ice: Mars has large amounts of subsurface ice, especially near the poles. 
+        Robotic systems could be used to mine this ice, which can then be melted and purified for consumption. 
+        Surface Ice Deposits: In some regions, water ice is located just beneath the surface. 
+        Autonomous rovers could dig and collect this ice more easily.
 
     3. Recycling and Reclamation Systems
         Closed-Loop Water Recycling: Similar to the systems used on the International Space Station (ISS), 
