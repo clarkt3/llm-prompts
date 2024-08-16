@@ -2145,7 +2145,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
+    # 1st Tier: Models are pre-trained on billions of tokens
 
+    # 2nd Tier:  Models are trained further on RLHF (Reinforcement Learning w/ Human Feedback)
+
+    # 3rd Tier: In-Context Training
+
+        # a prompt engineer does this
 
 ```
 
