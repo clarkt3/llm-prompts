@@ -2211,7 +2211,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         # few shot = 2+ examples
     
+        # examples are sometimes called examplars
     
+    # zero shot prompt example
+
+        # multiply 6 by 10
+
+    # response: The result of multiplying 6 by 10 is 60
+
+        # there is some text in the response we don't want
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
