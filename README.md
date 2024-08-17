@@ -2201,7 +2201,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    # 
+    # Zero Shot, One Shot, Few Shot Prompting
+        
+        #
+    
+    # of Examples is the difference
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
