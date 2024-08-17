@@ -2203,10 +2203,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # Zero Shot, One Shot, Few Shot Prompting
         
-        #
-    
-    # of Examples is the difference
+        # the difference is the number of examples
 
+        # zero shot = zero examples
+
+        # one shot = one example
+
+        # few shot = 2+ examples
+    
+    
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
