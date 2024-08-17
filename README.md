@@ -2237,6 +2237,23 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     Multiply 6 by 10: 60
     '''
 
+    # Few-Shot Prompting
+
+    # you work for rotten tomatoes and want to assign all review a star rating
+
+    '''
+    Given a review, assign it a star rating of 1 to 5 
+
+    <examples> # this is the beginning of the delimiter
+
+    example 1 
+
+    example 2
+
+    </example> # this is the end of the delimiter
+
+    If you understand, say "I understand" and I will start providing you with reviews.
+    '''
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
