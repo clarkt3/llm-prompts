@@ -2246,14 +2246,20 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     <examples> # this is the beginning of the delimiter
 
-    example 1 
+    example 1 # actual review from Rotten Tomatoes 
 
-    example 2
+    example 2 # actual review from Rotten Tomatoes
 
     </example> # this is the end of the delimiter
 
     If you understand, say "I understand" and I will start providing you with reviews.
     '''
+
+    # ^ this is few shot prompting 
+
+    # assigning a star rating to a text-based review is hard than you might think (keep that in mind)
+
+    
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
