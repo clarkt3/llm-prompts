@@ -2283,6 +2283,14 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # the larger the model, the more important few-shot prompting becomes
 
 ```
+#### How Many Examples?
+
+```Python
+
+    
+
+```
+
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
