@@ -2259,7 +2259,22 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # assigning a star rating to a text-based review is hard than you might think (keep that in mind)
 
-    
+    # chat gpt knew based on the text part of the review to assign it a 2-star rating
+
+    # we did not tell GPT that the star rating scale was 1 to 5
+
+    # few shot prompting makes the models response more accurate and useful
+
+    # KEY POINT: what we are doing here is making our prompt clearer and more specific by providing the model w/ examples of exactly what we want
+
+```
+## Day 16 of 26 | Sun, Aug 18, 2024
+
+#### Language Models are Few-Shot Learners
+
+```Python
+
+    # OPEN A STUDY: Language Models are Few-Shot Learners: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2005.14165
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
