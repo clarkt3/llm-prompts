@@ -2274,7 +2274,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    # OPEN A STUDY: Language Models are Few-Shot Learners: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2005.14165
+    # OpenAI White Paper: Language Models are Few-Shot Learners: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2005.14165
+    
+    # few-shot prompting increase the accuracy of 175 Billion Parameter LLM exponentially; this keeps true the larger the model gets
+
+    # KEY POINT: the accuracy increase when you use one shot and even more when few-shot prompting is used
+
+    # the larger the model, the more important few-shot prompting becomes
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
