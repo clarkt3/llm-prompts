@@ -2287,8 +2287,18 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+    # how many is optimal?
 
+    # there is a strudy on this: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2202.12837
+    
+    # KEY POINT: Use Between 4 and 8 examples when few shot prompting
+
+    # Note: Examples and Examplars are the same thing (just more scientific)
+
+    # Key Points:
+
+        # Use 4 - 8 examples (examplars)
+        # Performance gains plateau after 8 examplars
 ```
 
 ## Day X  of 25 | Day, Mon XX, 2024
