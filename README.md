@@ -2305,8 +2305,24 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 #### Thinking Like LLMs - But Wait...
 
 ```Python
-
     
+    # link to whitepaper: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2202.12837 
+    
+    # contrdicting few-shot prompting...
+
+        # what happens if the exaplars we gave gpt were changed?
+
+        # good reviews received bad low stars and bad reviews received high star ratings?
+        
+        # the star ratings were still spot on even though the examplar start-ratings were dead wrong
+
+    # White Paper: Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
+
+        # KEY POINT: the accuracy of labels you provide in your examples doesn't impact how accurate the model is
+
+        # you can give ChatGPT incorrect info in your examples, and it will still be accurate
+
+        # the "ground" truth doesn't actually matter that much; ground meaning the labels  
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
