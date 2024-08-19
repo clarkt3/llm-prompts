@@ -2268,7 +2268,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # KEY POINT: what we are doing here is making our prompt clearer and more specific by providing the model w/ examples of exactly what we want
 
 ```
-## Day 16 of 26 | Sun, Aug 18, 2024
+## Day 16 of 25 | Sun, Aug 18, 2024
 
 #### Language Models are Few-Shot Learners
 
@@ -2300,7 +2300,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # Use 4 - 8 examples (examplars)
         # Performance gains plateau after 8 examplars
 ```
+## Day 17 of 25 | Mon, Aug 19, 2024
 
+#### Thinking Like LLMs - But Wait...
+
+```Python
+
+    
+
+```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
