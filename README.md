@@ -2306,7 +2306,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
     
-    # link to whitepaper: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2202.12837 
+    # link to white paper: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2202.12837 
     
     # contrdicting few-shot prompting...
 
