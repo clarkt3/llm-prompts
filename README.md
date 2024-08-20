@@ -2375,7 +2375,24 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+    # the google study - linked above - shows significantly better than standard prompting
+
+    # Key: COT prompting improves the accuracy and quality of LLM outputs
+
+    # Why does COT Prompting Work?
+
+    '''
+    - CoT allows the model to break complex, multi-step problems into simpler, intermediate steps
+    - Breaking complex tasks into smaller problems therefor allowing more computational resources per taks
+    - CoT is most beneficial for complex prompting!
+    - This allows for debugging since it's written out in steps, you can see where the model went wrong
+    '''
+
+    # Recap:
+
+    '''
+    - When One-shot or Few-Shot Prompting, write out the reasoning in your examples (shots)!
+    '''
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
