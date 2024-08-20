@@ -2331,9 +2331,47 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    # 
+    # White Paper: COT Prompting
 
+    # Goal: is to get the thinking behind the answer provided by the LLM
+
+    # Standard Prompt (one-shot prompt):
+
+    '''
+    Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls.
+    How many tennis balls does he have now?
+
+    A: The answer is 11
+
+    Q: The cafeteria has 23 apples. If they used 20 to make lunches 
+        and bought 6 more, how many apples do they have?
+    '''
+    # Model Output:
+
+    '''
+    A: The answer is 27.
+    '''
+
+    # Chain-of-Thought Prompting (few-shot prompt):
+
+    '''
+    Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls
+        Each can has 3 tennis balls. How many tennis balls does he have now?
+
+    A: Roger started with 5 balls. 2 can of 3 tehhis balls is 6 tennis balls. 5 + 6 = 11
+
+    Q: The cafeteria had 23 apples. If they used 20 to make lunch and bought 6 more,
+        how many apples do they have?
+    '''
+    
+    # Model Output:
+
+    '''
+    A: The cafeteria has 23 apples originally. They used 20 to make lunch. So they had 23 - 20 = 3.
+        They bought 6 more apples, so they have 3 + 6 = 9. The answer is 9.
+    '''
 ```
+
 
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
