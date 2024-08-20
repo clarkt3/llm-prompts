@@ -2331,7 +2331,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    # White Paper: COT Prompting
+    # White Paper: COT Prompting -  chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2201.11903
 
     # Goal: is to get the thinking behind the answer provided by the LLM
 
@@ -2373,6 +2373,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 #### Chain-of-Thought Prompting (Part 2)
 
+```Python
+
+    
+
+```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
