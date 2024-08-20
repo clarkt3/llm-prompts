@@ -2327,7 +2327,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ## Day 18 of 25 | Tue, Aug 20, 2024
 
-####
+#### Chain-of-Thought Prompting
+
+```Python
+
+    # 
+
+```
 
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
