@@ -2416,7 +2416,10 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # When this is added to a zero-shot prompt, has profound impacts on these LLMs
 
     # 90% of the time it helps your LLMs 
+    
+    # 5 words has a huge impact "Let's Think Step by Step"
 
+    # Models are getting bigger and bigger every week/month so CoT is more important now
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
