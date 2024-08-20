@@ -2405,7 +2405,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
+    # White Paper: LLMs are Zero-Shot Reasoners - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2205.11916
     
+    # Just add this to your prompt:
+
+    '''
+    Let's Think Step by Step
+    '''
+
+    # When this is added to a zero-shot prompt, has profound impacts on these LLMs
+
+    # 90% of the time it helps your LLMs 
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
