@@ -2375,6 +2375,12 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
+    # White Paper: 
+
+    '''Chain-of-Thought Prompting Elicits Reasoning in LLMs - 
+    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2201.11903
+    '''
+    
     # the google study - linked above - shows significantly better than standard prompting
 
     # Key: COT prompting improves the accuracy and quality of LLM outputs
@@ -2393,6 +2399,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     '''
     - When One-shot or Few-Shot Prompting, write out the reasoning in your examples (shots)!
     '''
+
+```
+#### Zero-Shot CoT
+
+```Python
+
+    
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
