@@ -2327,7 +2327,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ## Day 18 of 25 | Tue, Aug 20, 2024
 
-#### Chain-of-Thought Prompting
+#### Chain-of-Thought Prompting (Part 1)
 
 ```Python
 
@@ -2371,7 +2371,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         They bought 6 more apples, so they have 3 + 6 = 9. The answer is 9.
     '''
 ```
-
+#### Chain-of-Thought Prompting (Part 2)
 
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
