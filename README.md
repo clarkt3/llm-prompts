@@ -2421,6 +2421,19 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # Models are getting bigger and bigger every week/month so CoT is more important now
 ```
+#### Exercise: Imposter Syndrome
+
+```Python
+
+    # imposter syndrome: means you're doing something worth while
+
+    # Answer questions that other students have learned
+
+```
+### Section 9: Guided Project - Create Your Own Career Coach
+
+
+
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
 
