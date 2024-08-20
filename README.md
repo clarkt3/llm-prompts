@@ -2448,10 +2448,11 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     What should a career coach do?
     '''
 
-    # GPT-4o Response:
+    # Response GPT-4o:
 
     '''
-    A career coach plays a vital role in helping individuals navigate their professional journeys. Their responsibilities include:
+    A career coach plays a vital role in helping individuals navigate their professional journeys. 
+    Their responsibilities include:
 
     1. Assessment and Goal Setting**: They help clients identify their strengths, weaknesses, interests, 
         and values. They also assist in setting realistic career goals based on this self-assessment.
@@ -2492,19 +2493,26 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     By addressing these areas, a career coach helps individuals clarify their career aspirations, 
     overcome challenges, and achieve their professional goals.
     '''
+    # Pick a Topic for your Career
+
+        # Python
+        # Expert Teacher who uses the Feynman Technique
+            
+            # explain it back to the teacher
+        
+        # Challenge and Test Us
+            
+            # coding challenges
+            # use slash commands to get the instructor to go into different modes then run through a series of steps
+
+        # /Learn Command - enter teching mode
+        # /Quiz Command - enter into a Test mode
+        # /Challenge Command - enter coding challenge
+
+        # Gamify it w/ an experience point system
+        # Customize it so you can use it in your career
 
 ```
-
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
-
-
 #### Subsection Title
-
-```Python
-
-    # 
-    #
-    #
-
-```
