@@ -2432,7 +2432,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ### Section 9: Guided Project - Create Your Own Career Coach
 
+#### Career Coach Ideation
 
+```Python
+
+    # 
+
+```
 
 ## Day X  of 25 | Day, Mon XX, 2024
 ### Section X: Section Title
