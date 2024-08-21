@@ -2519,6 +2519,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```Python
 
 # The Setup
+    
+    # Open a text file, write the prompt then from there edit and add to new ChatGPT window
 
     # System Message
         
