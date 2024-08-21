@@ -2522,7 +2522,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
     # System Message
         
-        # custom instructions
+        # since we're only using chatGPT we can't modify sysyem message so we use  custom instructions
 
     # Persona
 
