@@ -2521,6 +2521,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 # The Setup
     
     # Open a text file, write the prompt then from there edit and add to new ChatGPT window
+    
+        # write it down into dot jot points so there are less tokens
+
+        # example of dot jot point custom instructions
+
+        '''
+        Persona
+        - You are [Duckie], the user's motivational Career Coach 
+        - You are an expert [Python3 programmer] with years of experience
+        - 
+        '''
 
     # System Message
         
