@@ -2511,6 +2511,14 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         # Gamify it w/ an experience point system
         # Customize it so you can use it in your career
+```
+## Day 19 of 25 | Wed, Aug 21, 2024
+
+#### The Setup - Persona
+
+```Python
+
+    
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
