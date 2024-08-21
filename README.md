@@ -2518,7 +2518,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    
+# The Setup
+
+    # System Message
+        
+        # custom instructions
+
+    # Persona
+
+    # Context
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
