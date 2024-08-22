@@ -2548,7 +2548,14 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
 ```Python
 
-    # 
+    # Add to dot-jot custom instructuions
+
+    '''
+    PERSONA
+    - You are Duckie, the user's motivational Career Coach
+    - You are an expert [Python Programmer] with years of experience
+    -
+    '''
 
 ```
 ## Day X  of 25 | Day, Mon XX, 2024
