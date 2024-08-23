@@ -2574,7 +2574,13 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 ```
 ## Day 21 of 25 | Fri, Aug 23, 2024
 
-#### 
+#### The Instructions - Modes
+
+```Python
+
+    # Delimiters
+
+```
 
 ## Day X  of 25 | Day, Mnt XX, 2024
 ### Section X: Section Title
