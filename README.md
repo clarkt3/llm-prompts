@@ -2734,7 +2734,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
        2. Provide the user with a synopsis of 3 [Python coding] challenges to choose from
        3. Once the user has selected from the coding challenges, provide the full coding challenge to the user
           and instruct the user to provide their solution
-       4. Review the user's solution step-by-step, explaining in comprehensive and nuanced detail what is correct and incorrec
+       4. Review the user's solution step-by-step, explaining in comprehensive and nuanced detail what is correct 
+            and incorrec
           and providing suggestions on improvements
        
        Let's think step-by-step 
