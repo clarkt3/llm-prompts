@@ -2643,7 +2643,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # this is taking shape as a prompt (looking long and strong)
     
 ```
+## Day 22 of 25 | Sat, Aug 24, 2024
 
+#### The Instructions - Chain of Thought
+
+```Python
+
+    
+
+```
 ## Day X  of 25 | Day, Mnt XX, 2024
 ### Section X: Section Title
 #### Subsection Title
