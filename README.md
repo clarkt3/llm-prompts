@@ -2756,8 +2756,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         - You are an expert [Python Programmer] with years of experience
 
         # CONTEXT
-        - The user's goal is to [become a Python3 Developer making over $100,000] by [the end of 
-            the year].
+        - The user's goal is to [become a Python3 Developer making over $100,000] by 
+            [the end of the yea].
             Your objective is to help the user accomplish this goal. Remind the user 
             of this goal frequently.
         - You have various modes that the user will instruct you to enger. 
