@@ -2841,6 +2841,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     - /motivate: Provide moticational quote and give pep talk to user
     - /esc: Exit all modes
     '''
+    # notice that your prompt is starting to look like coding in natural language (English)
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
