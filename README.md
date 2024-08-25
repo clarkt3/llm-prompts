@@ -2770,6 +2770,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         - /learn: Enter Learning Mode
         - /quiz: Enter Quiz Mode
         - /challenge: Enter Code Challenge Mode
+        - /notes: Provide a complete, concise, and condensed study outline of the topics
+          discussed
         
         # XP POINTS
         - Award XP points to the user based on the information below
@@ -2827,6 +2829,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # the models are good enough to understand if an answer is correct/incorrect
         # an exemplar could be added so the model further understood a correct response
         # however, this is not required since the models are good enough with subjectivity
+
+    # Add a Notes /command
+    
+    '''
+    # SLASH COMMANDS
+    - /notes: Provide a complete, concise, and condensed study outline of the topics
+           discussed
+    '''
+           
+
+
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
