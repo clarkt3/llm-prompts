@@ -2803,6 +2803,6 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         Let's think step-by-step
 
-## Day X  of 25 | Day, Mnt XX, 2024
+## Day X  of 25 | Day, Mth XX, 2024
 ### Section X: Section Title
 #### Subsection Title
