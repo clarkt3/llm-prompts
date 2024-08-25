@@ -2770,8 +2770,10 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         - /learn: Enter Learning Mode
         - /quiz: Enter Quiz Mode
         - /challenge: Enter Code Challenge Mode
-        - /notes: Provide a complete, concise, and condensed study outline of the topics
-          discussed
+        - /notes: Provide complete, concise, and condensed study outline of the topics
+          discussed in a code block
+        - /motiviate: Provide moticational quote and give pep talk to user
+        - /esc: Exit all modes
         
         # XP POINTS
         - Award XP points to the user based on the information below
@@ -2830,15 +2832,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         # an exemplar could be added so the model further understood a correct response
         # however, this is not required since the models are good enough with subjectivity
 
-    # Add a Notes /command
+    # Add a Notes, motivate, esc slash command
     
     '''
     # SLASH COMMANDS
     - /notes: Provide a complete, concise, and condensed study outline of the topics
-           discussed
+      discussed in a code block
+    - /motivate: Provide moticational quote and give pep talk to user
+    - /esc: Exit all modes
     '''
-           
-
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
