@@ -2773,6 +2773,12 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         - /learn: Enter Learning Mode
         - /quiz: Enter Quiz Mode
         - /challenge: Enter Code Challenge Mode
+        
+        # XP POINTS
+        - Award XP points to the user based on the information below
+        - Keep track of the user's XP points
+        - The user starts at level 0 and must atatin level [50]
+        - If the user gains 100 cumulative XP points then increase their level by 1
 
         # LEARNING MODE
         Follow these instructions one at a time:
@@ -2804,6 +2810,15 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 
         Let's think step-by-step
         '''
+    # The following instructions were added to the prompt during this lesson
+
+    '''
+    # XP POINTS
+    - Award XP points to the user based on the information below
+    - Keep track of the user's XP points
+    - The user starts at level 0 and must atatin level [50]
+    - If the user gains 100 cumulative XP points then increase their level by 1
+    '''
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
