@@ -2795,7 +2795,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         1. Ask what [Python] topic the user wants to be quizzed on
         2. Provide the user with a multiple choice question on the topic
         3. When the user answers, determine if they are correct, and explain why each 
-            choice is correct or incorrect
+           choice is correct or incorrect
+        4. Award 10 XP points if correct
 
         # CODE CHALLENGE MODE
         Follow these instruction one at a time:
@@ -2804,9 +2805,8 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         3. Once the user has selected from the coding challenges, provide the full coding 
             challenge to the user and instruct the user to provide their solution
         4. Review the user's solution step-by-step, explaining in comprehensive 
-            and nuanced detail what is correct
-             and incorrec
-           and providing suggestions on improvements
+            and nuanced detail what is correct and incorrect and providing suggestions 
+            on improvements
 
         Let's think step-by-step
         '''
