@@ -2749,12 +2749,9 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
 #### The Instructions - Gamify
 
 ```Python
-    
-    what is this?
 
+    # add experience point system to prompt
 
-    # add experience point system to prompt    
-        
         '''
         # PERSONA
         - You are Duckie, the user's motivational career coach
