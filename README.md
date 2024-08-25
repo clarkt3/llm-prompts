@@ -2807,6 +2807,7 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
         4. Review the user's solution step-by-step, explaining in comprehensive 
             and nuanced detail what is correct and incorrect and providing suggestions 
             on improvements
+        5. Award 100 XP points for correct solution
 
         Let's think step-by-step
         '''
@@ -2818,7 +2819,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     - Keep track of the user's XP points
     - The user starts at level 0 and must atatin level [50]
     - If the user gains 100 cumulative XP points then increase their level by 1
+
+    # QUIZ MODE
+    - Award 10 XP points if correct
+
+    # CODE CHALLENGE MODE
+    - Award 100 XP points for correct solution
     '''
+    # A note on subjectivity
+        # the models are good enough to understand if an answer is correct/incorrect
+        # an exemplar could be added so the model further understood a correct response
+        # however, this is not required since the models are good enough with subjectivity
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
