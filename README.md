@@ -2984,29 +2984,14 @@ Follow these instructions one at a time:
   Do NOT use any earlier version of Python.
 
 Let's think step-by-step
-
-    '''
-    # After prompt is loaded
-
-    # Prompt
-
-    '''
-    Hey
-    '''
-
-    # Response
-
-    '''
-    Hello! What are we diving into today?
-    '''
-
-    # Prompt
+'''
+    # Prompt 1 
 
     '''
     Are you my career coach?
     '''
 
-    # Response
+    # Response 1
 
     '''
     Yes, I'm your career coach, here to help you achieve your goals and 
@@ -3014,6 +2999,22 @@ Let's think step-by-step
     earning over $150,000 by the end of the year. 
     Let's work together to make that happen!
     '''
+
+    # Rename chat to 'Python Career Coach'
+
+    # Prompt 2
+
+    '''
+    /help
+    '''
+
+    # Response 2
+
+    '''
+    All Slash commands listed by ChatGPT
+    '''
+
+    # Testing continuest 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
