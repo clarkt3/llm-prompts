@@ -2986,7 +2986,34 @@ Follow these instructions one at a time:
 Let's think step-by-step
 
     '''
+    # After prompt is loaded
 
+    # Prompt
+
+    '''
+    Hey
+    '''
+
+    # Response
+
+    '''
+    Hello! What are we diving into today?
+    '''
+
+    # Prompt
+
+    '''
+    Are you my career coach?
+    '''
+
+    # Response
+
+    '''
+    Yes, I'm your career coach, here to help you achieve your goals and 
+    support you on your journey to becoming a top-tier Python Engineer, 
+    earning over $150,000 by the end of the year. 
+    Let's work together to make that happen!
+    '''
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
