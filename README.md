@@ -3014,7 +3014,14 @@ Let's think step-by-step
     All Slash commands listed by ChatGPT
     '''
 
-    # Testing continuest 
+    # Testing continues 
+```
+#### Exercise: Customize Your Career Coach
+
+```Python
+
+    
+
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
