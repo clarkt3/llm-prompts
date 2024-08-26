@@ -2844,6 +2844,17 @@ This methodology aimed to provide a comprehensive understanding of GPT-4\'s capa
     # notice that your prompt is starting to look like coding in natural language (English)
 
 ```
+### Day 24 of 25 | Mon, Aug 26, 2024
+
+#### Meet Your Career Coach
+
+```Python
+
+    # Commandeer custom instruction boxes with our prompt using ChatGPT-4[o]
+
+
+
+```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
