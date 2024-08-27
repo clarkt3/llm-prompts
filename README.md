@@ -3016,11 +3016,23 @@ Let's think step-by-step
 
     # Testing continues 
 ```
+## Day 25 of 40 | Tue, Aug 27, 2024
+
 #### Exercise: Customize Your Career Coach
 
 ```Python
-
     
+# 1. Determine what topic you want your career coach to focus on? 
+        
+    # Python3
+
+# 2. Add, remove, or revise the Slash Commands to suit your needs
+
+# 3. Any  new Modes add in the Slash Commands, explain the step-by-step process for that mode
+
+# 4. Customize the Career Coach's personality
+
+    # Check, Check, Check all done here
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
