@@ -3037,7 +3037,17 @@ Let's think step-by-step
 ```
 ## Section 10: Prompting Fundamentals - The output
 
+#### The Output
 
+```Python
+
+    # The boundary Message - set guard rails around what you want the LLM to produce for you
+
+    # Think about what you want the output to be - it may be for work or an AI app, etc.
+
+    # W/E the use case, it's important to control the output the model gives you
+
+```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
