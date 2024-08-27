@@ -3035,6 +3035,9 @@ Let's think step-by-step
     # Check, Check, Check all done here
 
 ```
+## Section 10: Prompting Fundamentals - The output
+
+
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
