@@ -3135,6 +3135,10 @@ Let's think step-by-step
 
         # You can ONLY set the MAX LENGTH using the API not ChatGPT
 ```
+#### Formats 
+```Python
+
+```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
