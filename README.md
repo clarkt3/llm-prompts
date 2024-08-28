@@ -3067,6 +3067,12 @@ Let's think step-by-step
 
         # when trying to calculate tokens, it was still wrong
 
+    # Numbers are not going to be adhered to
+
+    # How to make your Model type exact word counts
+
+        # break things down into pieces and have it write it for you
+
     # 
 
 ```
