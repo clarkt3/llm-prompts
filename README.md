@@ -3100,10 +3100,40 @@ Let's think step-by-step
 
     # BREAK things into smaller chunks and go from there
 
-    # 
+    # IN OPEN AI PLAY GROUND
 
+        # Limit the number of TOKENS per response in hyperparameters
 
+    # HYPERPARAMETERS: 
 
+        # MAX Length
+
+        '''
+        The max number of tokens to generate shared b/t the prompt
+        and tcompletition. The exact limit varies by model. (One
+        token is roughly 4 characters for standard English text)
+        '''
+
+        # This limit only applied to the output in real life
+
+        # NEW PROMPT:
+
+        '''
+        Write a story about a dinosaur that is 100 tokens
+        '''
+
+        # NEW RESPONSE:
+
+        '''
+        Response is 100 tokens now. But the text was cut off
+        at the limit
+        '''
+
+        # The Model is not counting the tokens
+
+        # The hyperparameter constraint is stoping the model
+
+        # You can ONLY set the MAX LENGTH using the API not ChatGPT
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
