@@ -3138,6 +3138,30 @@ Let's think step-by-step
 #### Formats 
 ```Python
 
+    # Control the FORMAT of your response
+
+    # Images, Python code, Markdown format
+
+    # Markdown formatting PROMPT:
+
+    '''
+    Provide a story about a dinosaur in markdown format in a code block
+    '''
+    
+    # remember to add 'in a code block' to be able to copy code block
+
+    # OPEN AI: Playground
+
+        # Modify the system message and set it yourself
+
+        # Set to JSON - b/c JSON is machine readable
+
+    # Get your model to only output JSON
+
+    # There are teams of engineers working to create JSON output only
+
+    # TOOLS and TECHNIques are being created to help with JSON outputs
+
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
