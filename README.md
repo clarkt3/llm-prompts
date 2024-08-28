@@ -3048,6 +3048,24 @@ Let's think step-by-step
     # W/E the use case, it's important to control the output the model gives you
 
 ```
+### Day 26 of 40 | Wed, Aug 28,2024
+
+#### Length
+```Python
+
+    # Do you want a long or short response?
+
+    # Depends on your goals
+
+    # Write a story about a dinosaur that's 100 word
+
+    # GPT can't really count how many words it's generating
+
+    # They don't use words they used dinosaur
+
+        # uses Python to count the words
+
+```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
