@@ -3063,7 +3063,11 @@ Let's think step-by-step
 
     # They don't use words they used dinosaur
 
-        # uses Python to count the words
+        # uses Python to count the words/tokens
+
+        # when trying to calculate tokens, it was still wrong
+
+    # 
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
