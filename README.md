@@ -3073,7 +3073,36 @@ Let's think step-by-step
 
         # break things down into pieces and have it write it for you
 
+    # PROMPT:
+
+    '''
+    Create a chapter-bychapter outline of a novel about a dinosaur
+    '''
+
+    # RESPONSE:
+
+    '''
+    Wrttes out a list of chapters titles w/ plot notes
+    '''
+
+    # PROMPT:
+
+    '''
+    Copy chapter title and notes into the chat window and ask GPT
+    to write the chapter based on the Ch title name and plot notes
+    '''
+
+    # You get a full chapter
+
+    # Repeat this process until you're done!
+
+    # Always think outside the box when using an LLM
+
+    # BREAK things into smaller chunks and go from there
+
     # 
+
+
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
