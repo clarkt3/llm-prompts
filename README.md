@@ -3233,7 +3233,13 @@ Let's think step-by-step
     
     # Save the file
     file_path
+
+
+    # KEY POINT: outputs can be generated in file formats too
+
 ```
+
+
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
