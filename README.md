@@ -3207,7 +3207,32 @@ Let's think step-by-step
     the rest of the info to complete the budget
     '''
 
+    # Show the Python code that was used to generate the budget
 
+    # Prompt: 
+
+    # Show the python code that was run to achieve this response
+
+    # Response:
+
+    import pandas as pd
+
+    # Define the structure of the budget file data = {
+"Category": ["Income", "Income", "Fixed Expenses", "Fixed Expenses", "Variable Expenses", "Variable Expenses", "Savings", "Savings"],
+    "Item": ["Salary", "Other Income", "Rent/Mortgage", "Utilities", "Groceries", "Entertainment", "Emergency Fund", "Investments"],
+    "Amount": [0, 0, 0, 0, 0, 0, 0, 0]
+}
+
+    # Create a DataFrame
+    df = pd.DataFrame(data)
+
+    # Create an Excel writer
+    file_path = '/mnt/data/personal_budget.xlsx'
+    with pd.ExcelWriter(file_path, engine='xlsxwriter') as writer:
+    df.to_excel(writer, index=False, sheet_name='Budget')
+    
+    # Save the file
+    file_path
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
