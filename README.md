@@ -3165,6 +3165,14 @@ Let's think step-by-step
 ```
 
 ### Day 27 of 40 | Thu, Aug 29, 2024
+
+#### Formats
+
+```Python
+
+
+
+```
 ### Day X  of 25 | Day, Mth XX, 2024
 ## Section X: Section Title
 #### Subsection Title
