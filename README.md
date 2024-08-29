@@ -3166,7 +3166,7 @@ Let's think step-by-step
 
 ### Day 27 of 40 | Thu, Aug 29, 2024
 
-#### Formats
+#### Exercise: Output an Excel File
 
 ```Python
 
