@@ -3170,7 +3170,28 @@ Let's think step-by-step
 
 ```Python
 
+    # Prompt: 
 
+    '''
+    Generate an excel file for my personal budget
+    '''
+
+    # Response: 
+
+    '''
+    To create a personal budget Excel file for you, 
+    I’ll include the following sections:
+
+	1.	Income - Different sources of income.
+	2.	Fixed Expenses - Regular monthly expenses 
+        (e.g., rent, utilities).
+	3.	Variable Expenses - Costs that can vary each month
+        (e.g., groceries, entertainment).
+	4.	Savings - Amounts set aside for savings and investments.
+	5.	Summary - A summary of total income, expenses, and savings.
+
+    I’ll create this structure now and provide the Excel file.
+    '''
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
