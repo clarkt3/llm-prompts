@@ -3192,6 +3192,21 @@ Let's think step-by-step
 
     I’ll create this structure now and provide the Excel file.
     '''
+    # add a little more information
+
+    # Modified  Prompt:
+
+    '''
+    I make $40,000 per year. My rent is $1200/month. Create a 
+    budget for me and output the data in Excel format.
+    '''
+    # Modified Response:
+
+    '''
+    Excel file outputed w/ rent and salary included; need to fill in
+    the rest of the info to complete the budget
+    '''
+
 
 ```
 ### Day X  of 25 | Day, Mth XX, 2024
