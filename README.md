@@ -3238,8 +3238,7 @@ Let's think step-by-step
     # KEY POINT: outputs can be generated in file formats too
 
 ```
-
-
-### Day X  of 25 | Day, Mth XX, 2024
+### Day 28 of 40 | Fri, Aug 30, 2024
 ## Section X: Section Title
+### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
