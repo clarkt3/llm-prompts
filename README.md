@@ -3243,7 +3243,35 @@ Let's think step-by-step
 #### Exercise: Make a Flowchart
 ```Python
 
-    # 
+    # Create a flowchart for building a large language model
+
+    # Use an External Tool - output Mermaid
+
+    # Prompt
+
+    '''
+    Create flowchart in Mermaid that outlines the steps involved
+    in building a large language model
+    '''
+    # Response
+
+    '''
+    flowchart TD
+    A[Define Objectives] --> B[Data Collection]
+    B --> C[Data Preprocessing]
+    C --> D[Model Architecture Design]
+    D --> E[Model Training]
+    E --> F[Model Evaluation]
+    F --> G[Hyperparameter Tuning]
+    G --> H[Fine-tuning]
+    H --> I[Deployment]
+    I --> J[Monitoring and Maintenance]
+    J --> K[Iterative Improvement]
+    '''
+
+    # Copy
+
+    
 
 ```
 ## Section X: Section Title
