@@ -3269,10 +3269,19 @@ Let's think step-by-step
     J --> K[Iterative Improvement]
     '''
 
-    # Copy
+    # Copy the Mermaid Flowchart Markdown and paste into drawio.com
 
-    
+    # Click + symbol > Advanced > Mermaid > Paste chatGPT response
 
+    # Flowchart is generated in drawio.com
+
+    # Key Point
+
+    '''
+    You can use chatGPT in combination w/ external tools to do a
+    lot more than you might think!
+    '''
+    # These models are not perfect......yet!!!
 ```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
