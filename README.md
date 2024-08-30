@@ -3239,6 +3239,13 @@ Let's think step-by-step
 
 ```
 ### Day 28 of 40 | Fri, Aug 30, 2024
+
+#### Exercise: Make a Flowchart
+```Python
+
+    # 
+
+```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
