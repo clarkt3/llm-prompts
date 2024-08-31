@@ -3283,6 +3283,7 @@ Let's think step-by-step
     '''
     # These models are not perfect......yet!!!
 ```
+### Day 28 of 40 | Sat, Aug 31, 2024
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
