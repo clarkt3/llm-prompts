@@ -3288,7 +3288,7 @@ Let's think step-by-step
 #### Jailbreak!
 ```Python
 
-    # 
+    # following Pliny the Liberator on Twitter for Jailbreak ideas
 
 ```
 ## Section X: Section Title
