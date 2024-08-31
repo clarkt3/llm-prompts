@@ -3301,6 +3301,19 @@ Let's think step-by-step
     # DAN Prompt: Do Anything Now
 
     # DAN Prompt URL - https://lmarena.ai/
+
+    # Key Point:
+
+    '''
+    A good jailbreak prompt allows the user to bypass restrictions
+    that the model creator intended there to be.
+
+    Remember:
+    The output of these models is, in theory, constrained by the model
+    creator...but it can be jailbroken sometimes.i
+    '''
+
+    # Reminder: RLHF means reenforecment learning through human feedback
 ```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
