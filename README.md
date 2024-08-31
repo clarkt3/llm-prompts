@@ -3289,7 +3289,15 @@ Let's think step-by-step
 ```Python
 
     # following Pliny the Liberator on Twitter for Jailbreak ideas
+    
+    # Think outside the box to get responses that were design to hide
 
+    # Study: Do Anything Now - Jailbreak prompts on LLMs 
+
+    '''
+    chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/
+    https://arxiv.org/pdf/2308.03825
+    '''
 ```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
