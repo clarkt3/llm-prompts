@@ -3292,12 +3292,15 @@ Let's think step-by-step
     
     # Think outside the box to get responses that were design to hide
 
-    # Study: Do Anything Now - Jailbreak prompts on LLMs 
+    # Research Paper: Do Anything Now - Jailbreak prompts on LLMs 
 
     '''
     chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/
     https://arxiv.org/pdf/2308.03825
     '''
+    # DAN Prompt: Do Anything Now
+
+    # DAN Prompt URL - https://lmarena.ai/
 ```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
