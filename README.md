@@ -3316,8 +3316,12 @@ Let's think step-by-step
     # Reminder: RLHF means reenforecment learning through human feedback
 ```
 ### Day 29 of 40 | Sun, Sep 1, 2024
+```Python
 
 
+
+```
+#### Thinking Like LLMs - Prompt Injection
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
