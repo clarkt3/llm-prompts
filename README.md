@@ -3365,7 +3365,13 @@ Let's think step-by-step
 
 ```
 ### Day 30 | Mon, Sep 2, 2024
+## Section 11: LLM Hyperparameters & The Open AI Playground
+#### Introduction to Hyperparameters and the OpenAI Playground
+```Python
 
+
+
+```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
