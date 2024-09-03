@@ -3394,6 +3394,11 @@ Let's think step-by-step
     # Credits added
 ```
 #### Temperature
+```Python
+
+
+
+```
 ## Section X: Section Title
 ### Day X | Day, Mth XX, 2024
 #### Subsection Title
