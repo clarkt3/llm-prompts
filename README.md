@@ -3304,7 +3304,7 @@ Let's think step-by-step
 
     # Key Point:
 
-    '''
+    ''i'
     A good jailbreak prompt allows the user to bypass restrictions
     that the model creator intended there to be.
 
@@ -3316,6 +3316,8 @@ Let's think step-by-step
     # Reminder: RLHF means reenforecment learning through human feedback
 ```
 ### Day 29 of 40 | Sun, Sep 1, 2024
+
+#### Thinking Like LLMs - Prompt Injection
 ```Python
 
     # add photo of yourself
@@ -3364,11 +3366,6 @@ Let's think step-by-step
 ```
 ### Day 30 | Mon, Sep 2, 2024
 
-#### Thinking Like LLMs - Prompt Injection
-```Python
-
-
-```
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
 #### Subsection Title
