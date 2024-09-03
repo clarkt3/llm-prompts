@@ -3420,7 +3420,29 @@ Let's think step-by-step
 
         # gpt-3.6-turbo-15k-0613 = june 13th
 
+        # all models are saved for response consistency
 
+            # for customer-facing responses/prompts
+
+    # Temp goes from 0 - 2
+
+    #promp
+
+    '''Write a poem'''
+
+    #shows token likelyhood of next token (word)
+
+    # think of temp like creativity
+
+        # business cases for 0 temp
+
+        # creative writing for 2 temp
+
+    # temp 2 = unlikely the response cannot be understood
+
+    # temp 2 is highly unlikely
+
+    # temp 1.5 is great for creative writing or poems
 ```
 ## Section X: Section Title
 ### Day X | Day, Mth XX, 2024
