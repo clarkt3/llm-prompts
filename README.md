@@ -3385,7 +3385,13 @@ Let's think step-by-step
 ### Note: Setting Up Your Playground
 ```Python
 
+    # Add Credits to OpenAI Playground
 
+        # head to "getting started w/ our tools"
+
+        # "Setting up your playground"
+
+    # Credits added
 
 ```
 ## Section X: Section Title
