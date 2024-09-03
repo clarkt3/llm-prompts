@@ -3362,6 +3362,7 @@ Let's think step-by-step
 
 
 ```
+### Day 30 | Mon, Sep 2, 2024
 #### Thinking Like LLMs - Prompt Injection
 ## Section X: Section Title
 ### Day X  of 25 | Day, Mth XX, 2024
