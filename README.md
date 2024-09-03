@@ -3381,6 +3381,13 @@ Let's think step-by-step
 
 ```
 ### Day 31 | Tue, Sep 3, 2024
+
+### Note: Setting Up Your Playground
+```Python
+
+
+
+```
 ## Section X: Section Title
 ### Day X | Day, Mth XX, 2024
 #### Subsection Title
