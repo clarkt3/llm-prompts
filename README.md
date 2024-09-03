@@ -3369,7 +3369,13 @@ Let's think step-by-step
 #### Introduction to Hyperparameters and the OpenAI Playground
 ```Python
 
+    # use Hyperparameters to control responses for customers
 
+    # Air Canada deal offered to customer - went off the rails
+
+    # if your hyperparameters are off it can cause real problems
+
+    # token credits are already purchased
 
 ```
 ## Section X: Section Title
