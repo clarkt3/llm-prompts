@@ -3396,6 +3396,29 @@ Let's think step-by-step
 #### Temperature
 ```Python
 
+    # Temp controls randomness of outputs
+
+        # really the randomness of tokens selected
+
+    # Control the types of modeles you use too
+
+    # Three Models
+
+        #1. Chat = like personal assistant
+        #2. Assistant = for GPT store/others
+        #3. Complete = just completes things; not chat
+
+    # Chat is what will be used mostly
+
+    # Now we are using the complete model:
+
+        # Set Show Probabilities to full spectrum
+    
+    # Model
+
+        # gpt-3.5-turbo-16k = 16,000 context twindow
+
+        # gpt-3.6-turbo-15k-0613 = june 13th
 
 
 ```
