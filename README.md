@@ -3475,6 +3475,10 @@ Let's think step-by-step
 ### Task 1: Hello World - Your First Website
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
+
+
+
+###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
 #### Day X | Day, Mth XX, 2024
