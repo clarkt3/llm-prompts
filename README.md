@@ -3459,6 +3459,22 @@ Let's think step-by-step
     # this can be quite useful if your building a business app to create consistent responses w/ likly tokens
 
 ```
+#### Day 32 | Thu, Sep 5, 2024
+### Frequency and Presence Penalties
+### Stop Sequences
+
+## Section 12: Guided Project - Prompting with Autonomous Agents (AutoGPT)
+### Project Introduction
+### Setup Instructions
+### Setup Demo: Getting Your API Key
+### Setup Demo: Downloading AutoGPT
+### Setup Demo: Installing Docker
+### Launching Autonomus Agent - Part 1
+### Launching Autonomus Agent - Part 2
+### It's Aliiiiive! Running Your Autonomus Agent
+### Task 1: Hello World - Your First Website
+### Task 2: Python Program - Paindrome Checker
+### Task 3: Initalize Your Own Task
 ## Section X: Section Title
-### Day X | Day, Mth XX, 2024
-#### Subsection Title
+### Subsection Title
+#### Day X | Day, Mth XX, 2024
