@@ -3448,7 +3448,15 @@ Let's think step-by-step
 #### Top P
 ```Python
 
-    # 
+    # Controls diversity via nucleus sampling: 0.5 means half of all likelihood-weighted options are considered
+
+    # what does this mean?
+
+        # usually all tokens are considered and listed based on likelyhood
+
+        # when top p is set to 0.5 only the top 50% of tokens are considered when generating new responses
+    
+    # this can be quite useful if your building a business app to create consistent responses w/ likly tokens
 
 ```
 ## Section X: Section Title
