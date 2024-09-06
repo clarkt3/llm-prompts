@@ -3463,7 +3463,7 @@ Let's think step-by-step
 ### Frequency and Presence Penalties
 ```Python
 
-
+    #Decreases the model's likelihood to repeat the same line verbatim
 
 ```
 ### Stop Sequences
