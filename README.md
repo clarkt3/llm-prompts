@@ -3463,8 +3463,18 @@ Let's think step-by-step
 ### Frequency and Presence Penalties
 ```Python
 
-    #Decreases the model's likelihood to repeat the same line verbatim
+    # Frequency Penalty = penalize new tokens based on their existing frequency; decrease
 
+    # Presence Penalty = panzlie tokens for repeating if they show up even once
+
+    # Decreases the model's likelihood to repeat the same line verbatim
+
+    # Ranges from 0 - 2
+
+    # Why would this be beneficial
+
+        # 1. Makes responses a bit more creative
+        # 2. Prevents a LLM from getting stuck in a word loop 
 ```
 ### Stop Sequences
 ```Python
