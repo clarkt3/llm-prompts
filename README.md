@@ -3461,8 +3461,17 @@ Let's think step-by-step
 ```
 #### Day 32 | Thu, Sep 5, 2024
 ### Frequency and Presence Penalties
-### Stop Sequences
+```Python
 
+
+
+```
+### Stop Sequences
+```Python
+
+
+
+```
 ## Section 12: Guided Project - Prompting with Autonomous Agents (AutoGPT)
 ### Project Introduction
 ### Setup Instructions
