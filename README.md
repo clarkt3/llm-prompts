@@ -3572,7 +3572,11 @@ Let's think step-by-step
 ### Setup Instructions
 ```Python
 
+    # Follow these instructions: https://docs.agpt.co/autogpt/setup/
 
+    # Follow the Set up with Docker instructions
+
+    # Move this proeject to a new repo so you can document and post your project on your resume
 
 ```
 ### Setup Demo: Getting Your API Key
