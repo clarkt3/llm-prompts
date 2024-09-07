@@ -3582,7 +3582,9 @@ Let's think step-by-step
 ### Setup Demo: Getting Your API Key
 ```Python
 
+    # Use API Login to create API Key - openai.com
 
+    # Generated Project level API Key (user API keys were replaced by Project API keys)
 
 ```
 ### Setup Demo: Downloading AutoGPT
