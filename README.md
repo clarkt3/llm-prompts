@@ -3556,7 +3556,17 @@ Let's think step-by-step
 ### Project Introduction
 ```Python
 
+    # Building an autonomous agent using AutoGPT
 
+    # In this project  we'll setup an AutoGPT and init three seperate tasks
+
+        # 1. Creating (and editing) a simple "Hello World" website
+        
+        # 2. Create/Test a python program to chekc for palindromes (like racecar)
+
+        # 3. Start and complete your own task!!!
+
+    # Buckle up and get ready for this ride!
 
 ```
 ### Setup Instructions
