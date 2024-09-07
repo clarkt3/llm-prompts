@@ -3553,6 +3553,11 @@ Let's think step-by-step
 ```
 ## Section 12: Guided Project - Prompting with Autonomous Agents (AutoGPT)
 ### Project Introduction
+```Python
+
+
+
+```
 ### Setup Instructions
 ### Setup Demo: Getting Your API Key
 ### Setup Demo: Downloading AutoGPT
