@@ -3570,6 +3570,11 @@ Let's think step-by-step
 
 ```
 ### Setup Instructions
+```Python
+
+
+
+```
 ### Setup Demo: Getting Your API Key
 ### Setup Demo: Downloading AutoGPT
 ### Setup Demo: Installing Docker
