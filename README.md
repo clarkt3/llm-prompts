@@ -3577,8 +3577,8 @@ Let's think step-by-step
     # Follow the Set up with Docker instructions
 
     # Move this proeject to a new repo so you can document and post your project on your resume
-
 ```
+#### Day 34 | Sat, Sep 7, 2024
 ### Setup Demo: Getting Your API Key
 ### Setup Demo: Downloading AutoGPT
 ### Setup Demo: Installing Docker
