@@ -3585,9 +3585,13 @@ Let's think step-by-step
     # Use API Login to create API Key - openai.com
 
     # Generated Project level API Key (user API keys were replaced by Project API keys)
-
 ```
 ### Setup Demo: Downloading AutoGPT
+```Python
+
+    
+
+```
 ### Setup Demo: Installing Docker
 ### Launching Autonomus Agent - Part 1
 ### Launching Autonomus Agent - Part 2
