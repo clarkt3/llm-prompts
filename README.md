@@ -3580,6 +3580,11 @@ Let's think step-by-step
 ```
 #### Day 34 | Sat, Sep 7, 2024
 ### Setup Demo: Getting Your API Key
+```Python
+
+
+
+```
 ### Setup Demo: Downloading AutoGPT
 ### Setup Demo: Installing Docker
 ### Launching Autonomus Agent - Part 1
