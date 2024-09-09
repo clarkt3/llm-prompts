@@ -3607,7 +3607,13 @@ Let's think step-by-step
 
     # auto-gpt pulled from docker
 ```
+#### Day 35 | Mon, Sep 9, 2024
 ### Launching Autonomus Agent - Part 1
+```Python
+
+
+
+```
 ### Launching Autonomus Agent - Part 2
 ### It's Aliiiiive! Running Your Autonomus Agent
 ### Task 1: Hello World - Your First Website
