@@ -3600,7 +3600,12 @@ Let's think step-by-step
     # Log In to Docker Desktop using git credentials
 
     # Docker works
+    
+    # Pull significantgravitas/auto-gpt from docker
 
+    # Docker Updates Ran and Docker Restarted
+
+    # auto-gpt pulled from docker
 ```
 ### Launching Autonomus Agent - Part 1
 ### Launching Autonomus Agent - Part 2
