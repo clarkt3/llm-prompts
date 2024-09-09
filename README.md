@@ -3624,6 +3624,10 @@ Let's think step-by-step
     # Open .env w/ TextEdit (default)
 
     # Add Your Own API Key Here:# OPENAI_API_KEY=
+
+    # No spaces make sure it's right after the = sign
+
+    # API KEY IS PASTED NOW
 ```
 ### Launching Autonomus Agent - Part 2
 ### It's Aliiiiive! Running Your Autonomus Agent
