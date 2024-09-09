@@ -3589,10 +3589,14 @@ Let's think step-by-step
 ### Setup Demo: Downloading AutoGPT
 ```Python
 
-    
+    # Download AutoGPT from github - https://github.com/Significant-Gravitas/AutoGPT 
+```
+#### Day 35 | Sun, Sep 8, 2024
+### Setup Demo: Installing Docker
+```Python
+
 
 ```
-### Setup Demo: Installing Docker
 ### Launching Autonomus Agent - Part 1
 ### Launching Autonomus Agent - Part 2
 ### It's Aliiiiive! Running Your Autonomus Agent
