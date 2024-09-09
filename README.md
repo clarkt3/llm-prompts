@@ -3632,7 +3632,16 @@ Let's think step-by-step
 ### Launching Autonomus Agent - Part 2
 ```Python
 
-    # 
+    # 1. Move .env file to autogpt folder
+        # Move .env file to main autogpt folder
+        # .env now in AutoGPT main folder
+    # 2. Download docker-compose.yml from GitHub Repo
+        # Save docker-compose.yml to AutoGPT main folder
+
+    # What I Now have in my AutoGPT Folder
+        # 1. .env w/ a project-sepcific API Token
+        # 2. docker-compose.yml
+        # 3. AutoGPT-Master
 
 ```
 ### It's Aliiiiive! Running Your Autonomus Agent
