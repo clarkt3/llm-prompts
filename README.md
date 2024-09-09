@@ -3611,8 +3611,19 @@ Let's think step-by-step
 ### Launching Autonomus Agent - Part 1
 ```Python
 
+    # Unzip AutoGPT-Master
 
+    # Locate .env.template in autogpts, autogpt subfolder
 
+    # Show hidden files on mac - command + shift + .
+
+    # Make a copy of .env.template > rename it .env
+
+    # Mac will throw error so go to info and rename it .env from that window
+
+    # Open .env w/ TextEdit (default)
+
+    # Add Your Own API Key Here:# OPENAI_API_KEY=
 ```
 ### Launching Autonomus Agent - Part 2
 ### It's Aliiiiive! Running Your Autonomus Agent
