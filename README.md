@@ -3595,6 +3595,11 @@ Let's think step-by-step
 ### Setup Demo: Installing Docker
 ```Python
 
+    # Install Docker for apple silicon
+
+    # Log In to Docker Desktop using git credentials
+
+    # Docker works
 
 ```
 ### Launching Autonomus Agent - Part 1
