@@ -3660,6 +3660,8 @@ Let's think step-by-step
     Enter the task that you want AutoGPT to execute, with as much detial as possible
     '''
     # BOOM ROASTED!
+
+    # After all this setup, we're finally getting back to Prompt Engineering as a science
 ```
 ### Task 1: Hello World - Your First Website
 ### Task 2: Python Program - Paindrome Checker
