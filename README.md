@@ -3646,6 +3646,11 @@ Let's think step-by-step
 ```
 #### Day 36 | Tue, Sep 10, 2024
 ### It's Aliiiiive! Running Your Autonomus Agent
+```Python
+
+    # 
+
+```
 ### Task 1: Hello World - Your First Website
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
