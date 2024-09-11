@@ -3644,6 +3644,7 @@ Let's think step-by-step
         # 3. AutoGPT-Master
 
 ```
+#### Day 36 | Tue, Sep 10, 2024
 ### It's Aliiiiive! Running Your Autonomus Agent
 ### Task 1: Hello World - Your First Website
 ### Task 2: Python Program - Paindrome Checker
