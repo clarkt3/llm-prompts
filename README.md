@@ -3648,6 +3648,8 @@ Let's think step-by-step
 ### It's Aliiiiive! Running Your Autonomus Agent
 ```Python
 
+    # cd to AutoGPT folder
+
     # 
 
 ```
