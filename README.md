@@ -3650,8 +3650,16 @@ Let's think step-by-step
 
     # cd to AutoGPT folder
 
-    # 
+    # run this command: docker compose run --rm auto-gpt
 
+    # Auto-GPT is now running locally
+
+    # Message from AutoGPT
+
+    '''
+    Enter the task that you want AutoGPT to execute, with as much detial as possible
+    '''
+    # BOOM ROASTED!
 ```
 ### Task 1: Hello World - Your First Website
 ### Task 2: Python Program - Paindrome Checker
