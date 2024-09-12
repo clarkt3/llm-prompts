@@ -3663,7 +3663,13 @@ Let's think step-by-step
 
     # After all this setup, we're finally getting back to Prompt Engineering as a science
 ```
+# Day 37 | Wed, Sep 11, 2024
 ### Task 1: Hello World - Your First Website
+```Python
+
+    # 
+
+```
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
 
