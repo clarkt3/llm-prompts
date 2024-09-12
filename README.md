@@ -3720,7 +3720,12 @@ Let's think step-by-step
     # Website is simple, responsive, and meets accessibility requirements
 ```
 #### Day 39 | Thu, Sep 12, 2024
-### Task 2: Python Program - Paindrome Checker
+### Task 2: Python Program - Palindrome Checker
+```Python
+
+
+
+```
 ### Task 3: Initalize Your Own Task
 
 
