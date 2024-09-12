@@ -3758,6 +3758,14 @@ Let's think step-by-step
     - Best Practices
     - Cost Conciousness
     '''
+
+    # Test
+
+    '''
+    Palindrome Checker Runs this: 'A man, a plan, a canal: Panama'
+
+    It is determined that A man, a plan, a canal: Palama is a palindrome
+    '''
 ```
 ### Task 3: Initalize Your Own Task
 
