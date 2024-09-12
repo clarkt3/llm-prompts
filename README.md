@@ -3670,11 +3670,32 @@ Let's think step-by-step
     # Note:
 
     '''
-     AutoGPT might write files to a different folder for you than it does for me. If you can't find the files AutoGPT says 
-     it's creating, go open up your .env file, find the section labelled ## RESTRICT_TO_WORKSPACE and look at the filepath 
-     listed there (example: ./data/agents/<agent_id>/workspace). That's where AutoGPT is saving your files.
+     AutoGPT might write files to a different folder for you than it does for me. 
+     If you can't find the files AutoGPT says it's creating, go open up your .env file, 
+     find the section labelled ## RESTRICT_TO_WORKSPACE and look at the filepath 
+     listed there (example: ./data/agents/<agent_id>/workspace). That's where AutoGPT 
+     is saving your files.
     '''
-    
+    # First Prompt for AutoGPT:
+
+    '''
+    Create a basic "Hello World" HTML website with a blue background and orange text
+    '''
+
+    # Input Required
+
+    '''
+    AutoGPT asks if I want to ensure the website is accessible by following 
+    web accessibility guidelines
+    '''
+    # Y is entered for Yes
+
+    # Response:
+
+    '''
+    Note: All fiiles/directories created by this age can be found inside its workspace
+    at: /app/data/agents/WebDesignGPT-5fca6325/workspace
+    '''
 ```
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
