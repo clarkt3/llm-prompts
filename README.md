@@ -3723,8 +3723,31 @@ Let's think step-by-step
 ### Task 2: Python Program - Palindrome Checker
 ```Python
 
+    # Have AutoGPT create a python program
 
+    # Initiate AutoGPT again by running
 
+    ''' 
+    docker compose run --rm auto-gpt
+    '''
+    
+    # docker compose run --rm auto-gpt trouble shooting
+
+    '''
+    first time the command didn't work
+
+    had to run docker pull significantgravitas/auto-gpt:latest
+    
+    Second time the docker compose run --rm auto-gpt command worked but asked for API key again
+
+    Passed API key in and was presented with system message
+    '''
+
+    # Prompt
+
+    '''
+    Create a Python program for checking whether a string is a palindrome or not
+    '''
 ```
 ### Task 3: Initalize Your Own Task
 
