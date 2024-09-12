@@ -3667,8 +3667,14 @@ Let's think step-by-step
 ### Task 1: Hello World - Your First Website
 ```Python
 
-    # 
+    # Note:
 
+    '''
+     AutoGPT might write files to a different folder for you than it does for me. If you can't find the files AutoGPT says 
+     it's creating, go open up your .env file, find the section labelled ## RESTRICT_TO_WORKSPACE and look at the filepath 
+     listed there (example: ./data/agents/<agent_id>/workspace). That's where AutoGPT is saving your files.
+    '''
+    
 ```
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
