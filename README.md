@@ -3696,6 +3696,15 @@ Let's think step-by-step
     Note: All fiiles/directories created by this age can be found inside its workspace
     at: /app/data/agents/WebDesignGPT-5fca6325/workspace
     '''
+    # Response Continued
+
+    '''
+    AutoGPT lists the following:
+    - Best Practices
+    - Resources
+    - Criticism - although too early AutoGPT is aware that it will need to be critical
+      at some point in the future after more data is available.
+    '''
 ```
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
