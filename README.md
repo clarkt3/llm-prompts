@@ -3607,7 +3607,7 @@ Let's think step-by-step
 
     # auto-gpt pulled from docker
 ```
-#### Day 35 | Mon, Sep 9, 2024
+#### Day 36 | Mon, Sep 9, 2024
 ### Launching Autonomus Agent - Part 1
 ```Python
 
@@ -3644,7 +3644,7 @@ Let's think step-by-step
         # 3. AutoGPT-Master
 
 ```
-#### Day 36 | Tue, Sep 10, 2024
+#### Day 37 | Tue, Sep 10, 2024
 ### It's Aliiiiive! Running Your Autonomus Agent
 ```Python
 
@@ -3663,7 +3663,7 @@ Let's think step-by-step
 
     # After all this setup, we're finally getting back to Prompt Engineering as a science
 ```
-# Day 37 | Wed, Sep 11, 2024
+# Day 38 | Wed, Sep 11, 2024
 ### Task 1: Hello World - Your First Website
 ```Python
 
@@ -3705,7 +3705,21 @@ Let's think step-by-step
     - Criticism - although too early AutoGPT is aware that it will need to be critical
       at some point in the future after more data is available.
     '''
+    # Input required:
+
+    '''
+    AutoGPT asks for a y or y -N (n being the number of times it runs through the task).
+    -N is not required or reccomended at this stage b/c AutoGPT could go off the rails
+    if it keeps repeating the same task multiple times.
+    '''
+        # you can hit n for exit program
+        # You can also add feedback if you don't like the proposed course of action
+
+    # Hello World Website Built and file saved to /app/data/agents/WebDesignGPT-5fca6325/workspace
+
+    # Website is simple, responsive, and meets accessibility requirements
 ```
+#### Day 39 | Thu, Sep 12, 2024
 ### Task 2: Python Program - Paindrome Checker
 ### Task 3: Initalize Your Own Task
 
