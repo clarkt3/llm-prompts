@@ -3748,6 +3748,16 @@ Let's think step-by-step
     '''
     Create a Python program for checking whether a string is a palindrome or not
     '''
+
+    # Response
+
+    '''
+    The response includes the following:
+
+    - Resources
+    - Best Practices
+    - Cost Conciousness
+    '''
 ```
 ### Task 3: Initalize Your Own Task
 
