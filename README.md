@@ -3770,9 +3770,11 @@ Let's think step-by-step
 ```
 #### Day 40 | Fri, Sep 23, 2024
 ### Task 3: Initalize Your Own Task
+```Python
 
+    # Create your 
 
-
+```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
