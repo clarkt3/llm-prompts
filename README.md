@@ -3772,8 +3772,17 @@ Let's think step-by-step
 ### Task 3: Initalize Your Own Task
 ```Python
 
-    # Create your 
+    # Figure out your own task that you want your Autonomous Agent to do. 
+        
+        # I want autoGPT to build me a portfolio website to host my github projects
 
+    # Hints:
+
+    # 1. Your prompt must be clear about what the goal(s) you want the agent to accomplish
+
+    # 2. instead of telling the agent to build a Python function, tell it to build and then test a Python function.
+    
+    # 3. If you want the agent to use any specific tools, include the tools in your prompt
 ```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
