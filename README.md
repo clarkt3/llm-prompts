@@ -3783,6 +3783,8 @@ Let's think step-by-step
     # 2. instead of telling the agent to build a Python function, tell it to build and then test a Python function.
     
     # 3. If you want the agent to use any specific tools, include the tools in your prompt
+
+    # Remember you always need to run - docker pull latest for things to work
 ```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
