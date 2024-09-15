@@ -3825,7 +3825,23 @@ Let's think step-by-step
     
     Key Point: The infor you give the llm is private
     '''
+    # Why private matters?
 
+    '''
+    private is better b/c proprietary llms use your info to train
+    the next version of their model
+    '''
+    # Open Source Models solve the privacy issue b/c it is your model
+
+    # When you have your own model, there are no rules
+
+    # proprietary models have rules and guardrails so have limits
+
+    # Governments can crack down on the info that LLMs can give you
+
+    # Think dictatorship/ China
+
+    # It's a freedom of speech issue
 ```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
