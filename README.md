@@ -3794,6 +3794,37 @@ Let's think step-by-step
     # Is Open Source Better Than Propprietary?
 
     # You Need to Know the Difference to make an opinion...
+    
+    # Open Source Definition
+
+    '''
+    Software that is redistributable, with all source code
+    being made avaliable.
+
+    Key Point: It's Public
+    '''
+    # Closed Source
+
+    # Example: OpenAI
+
+    '''
+    You can't take the model and run it on your own machine
+    which is in direct contrast to open source and there are
+    some really big players in the open source space.
+    '''
+
+    # Meta is OpenSouce w/ Llama
+
+    # Mistral - a french company w/ leading open source models
+
+    # Why it's imporant? You can have you own LLM
+    
+    '''
+    By using open source you can take a large language model
+    download it to your computer, and run it on your own machine
+    
+    Key Point: The infor you give the llm is private
+    '''
 
 ```
 ###### Blue Print for Remaining Sections/Days
