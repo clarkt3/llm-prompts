@@ -3786,7 +3786,16 @@ Let's think step-by-step
 
     # Remember you always need to run - docker pull latest for things to work
 ```
-#### Day 41 | Sat, Sep 24, 2024 
+#### Day 41 | Sat, Sep 24, 2024
+## Section 13: Open Source Models
+### What are Open Source LLMs and Why Are They Important
+```Python
+    
+    # Is Open Source Better Than Propprietary?
+
+    # You Need to Know the Difference to make an opinion...
+
+```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
