@@ -3847,6 +3847,13 @@ Let's think step-by-step
 ### Chatbot Arena Leaderboard
 ```Python
 
+    # https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+        # ranking of llms
+        # constantly changing
+
+    # How it works: Ranks LLMs based on stats
+
     # 
 
 ```
