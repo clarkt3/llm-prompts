@@ -3854,7 +3854,13 @@ Let's think step-by-step
 
     # How it works: Ranks LLMs based on stats
 
-    # 
+    # These rankings change all the time
+
+    # Jeffery Hinton, main AI researche: opensource AI = o/s nuclear weapons!!!
+
+    # How are they ranked? User Feedback
+
+    # You can modify these rankings
 
 ```
 ###### Blue Print for Remaining Sections/Days
