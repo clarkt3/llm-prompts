@@ -3786,7 +3786,7 @@ Let's think step-by-step
 
     # Remember you always need to run - docker pull latest for things to work
 ```
-#### Day 41 | Sat, Sep 24, 2024
+#### Day 41 | Sat, Sep 13, 2024
 ## Section 13: Open Source Models
 ### What are Open Source LLMs and Why Are They Important
 ```Python
@@ -3843,6 +3843,7 @@ Let's think step-by-step
 
     # It's a freedom of speech issue
 ```
+#### Day 42 | Sun, Sep 14, 2024
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
