@@ -3862,6 +3862,11 @@ Let's think step-by-step
 
     # You can modify these rankings
 
+    # You can do a blind ranking - Model A, Model B comparison
+
+    # The VOTE! Link: https://lmarena.ai/ - your votes matters
+
+    # Keep on top of these rankings and add your own rankings periodically
 ```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
