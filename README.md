@@ -3868,6 +3868,20 @@ Let's think step-by-step
 
     # Keep on top of these rankings and add your own rankings periodically
 ```
+#### Day 43 | Mon, Sep 15, 2024
+### Battle of the Intelligence Tests
+```Python
+
+    # Test out Chatbots in Chatbot arena
+
+    # Link to Test Prompts - 
+
+    '''
+    https://docs.google.com/document
+    /d/1DZiXXnE4zODmwPWZCal2To9LYj718kfqQd5AnHirTco/edit
+    '''
+
+```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
