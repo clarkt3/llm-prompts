@@ -3897,7 +3897,7 @@ Let's think step-by-step
     Hello. You seem like a nice parrot. Can you tell me what's 2*6?
     '''
 ```
-#### Day 44 | Tue, Sep 16, 2024
+#### Day 44 | Tue, Sep 17, 2024
 ### Exercise: Test The Models With Your Specific Use-Case
 ```Python
 
