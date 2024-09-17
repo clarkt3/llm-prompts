@@ -3901,7 +3901,7 @@ Let's think step-by-step
 ### Exercise: Test The Models With Your Specific Use-Case
 ```Python
 
-'''
+    '''
     This is a good opportunity for you to take a prompt that you'd use for your own 
     real-world use case - such as for debugging your code, or writing an article for you, 
     or writing an SQL query for you, or for running mock interviews with - and see how it 
@@ -3914,8 +3914,8 @@ Let's think step-by-step
     The idea is just for you to see how different models can respond to the same prompt. 
     And if you can't think of any use cases for yourself then I suggest you use some prompts 
     from Anthropic's Prompt Library - but you should really try to create your own prompt instead!
-'''
-
+    '''
+    # Open AI Models were consistently my choice for the career coach 
 ```
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
