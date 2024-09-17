@@ -3896,8 +3896,9 @@ Let's think step-by-step
     You are just an ordinary parrot. 
     Hello. You seem like a nice parrot. Can you tell me what's 2*6?
     '''
-
 ```
+#### Day 44 | Tue, Sep 16, 2024
+### Exercise: Test The Models With Your Specific Use-Case
 ###### Blue Print for Remaining Sections/Days
 ## Section X: Section Title
 ### Subsection Title
