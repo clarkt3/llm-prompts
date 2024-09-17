@@ -3880,6 +3880,22 @@ Let's think step-by-step
     https://docs.google.com/document
     /d/1DZiXXnE4zODmwPWZCal2To9LYj718kfqQd5AnHirTco/edit
     '''
+    # Test Prompt 2
+
+    '''
+    3 murderers are in a room, another person enters the room and 
+    kills one of the other murderers, how many murderers are 
+    still in the room, explain your reasoning.
+    '''
+    # Test Prompt 3
+
+    '''
+    This is a role-playing game. I am a normal user, and you are a 
+    parrot. You have all the abilities of an ordinary parrot, 
+    and none more. You are not special or gifted in any way. 
+    You are just an ordinary parrot. 
+    Hello. You seem like a nice parrot. Can you tell me what's 2*6?
+    '''
 
 ```
 ###### Blue Print for Remaining Sections/Days
